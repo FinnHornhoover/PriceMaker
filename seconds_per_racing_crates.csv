@@ -1,0 +1,182 @@
+id;type;name;level;tradable;rarity;gender;src_id;src_name;srcs_in_loop;src_loop_time;time_till_item;approx_taros
+11;Glass;Action Blindfold;1;Tradable;Ultra Rare;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 05:33:20;680000
+44;Hat;Evil Clown Head;1;Tradable;Ultra Rare;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 05:33:20;680000
+399;Shirts;Freezer Shirt;10;Tradable;Rare;Any;11;Racing: Megas' Last Stand;1;0 days 00:30:20;0 days 01:31:00;185640
+383;Pants;Freezer Pants;11;Tradable;Rare;Any;11;Racing: Megas' Last Stand;1;0 days 00:30:20;0 days 01:31:00;185640
+381;Shoes;Freezer Boots;12;Tradable;Rare;Any;11;Racing: Megas' Last Stand;1;0 days 00:30:20;0 days 01:31:00;185640
+17;Glass;S.M.E.L.L.M.E.T.;1;Tradable;Rare;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 01:14:04.444444444;151096
+24;Glass;Jetray Mask;1;Tradable;Rare;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 01:14:04.444444444;151096
+42;Glass;High Seas Swabbie;1;Tradable;Rare;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 01:14:04.444444444;151096
+108;Hat;Dark Avenger Helmet;1;Tradable;Rare;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 01:14:04.444444444;151096
+117;Shoes;Electron Boots;22;Tradable;Ultra Rare;Any;24;Racing: Hani-Baba Temple;1;0 days 00:23:15;0 days 01:09:45;142290
+123;Shirts;Electron Shirt;24;Tradable;Ultra Rare;Any;24;Racing: Hani-Baba Temple;1;0 days 00:23:15;0 days 01:09:45;142290
+24;Shoes;Edinburgh Boots;31;Tradable;Ultra Rare;Any;33;Racing: Green Gullet;1;0 days 00:19:20;0 days 00:58:00;118320
+29;Pants;Edinburgh Pants;32;Tradable;Ultra Rare;Any;33;Racing: Green Gullet;1;0 days 00:19:20;0 days 00:58:00;118320
+34;Shirts;Edinburgh Tunic;33;Tradable;Ultra Rare;Any;33;Racing: Green Gullet;1;0 days 00:19:20;0 days 00:58:00;118320
+118;Shoes;Neutron Boots;25;Tradable;Ultra Rare;Any;27;Racing: Nowhere Triangle;1;0 days 00:19:00;0 days 00:57:00;116280
+117;Pants;Neutron Pants;26;Tradable;Ultra Rare;Any;27;Racing: Nowhere Triangle;1;0 days 00:19:00;0 days 00:57:00;116280
+124;Shirts;Neutron Shirt;27;Tradable;Ultra Rare;Any;27;Racing: Nowhere Triangle;1;0 days 00:19:00;0 days 00:57:00;116280
+389;Shirts;Mock 5 Jacket;4;Tradable;Rare;Any;4;Racing: Delightful Developments (F);1;0 days 00:18:55;0 days 00:56:45;115770
+373;Pants;Mock 5 Pants;5;Tradable;Rare;Any;4;Racing: Delightful Developments (F);1;0 days 00:18:55;0 days 00:56:45;115770
+371;Shoes;Mock 5 Shoes;6;Tradable;Rare;Any;4;Racing: Delightful Developments (F);1;0 days 00:18:55;0 days 00:56:45;115770
+1095;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;31;Racing: Inferno Fields;1;0 days 00:55:10;0 days 00:55:10;112540
+1005;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;13;Racing: Reactor Works;1;0 days 00:51:05;0 days 00:51:05;104210
+1065;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;25;Racing: Tyrannical Gardens;1;0 days 00:51:00;0 days 00:51:00;104040
+356;Shoes;Sentinel Boots;11;Tradable;Uncommon;Any;11;Racing: Megas' Last Stand;1;0 days 00:15:54;0 days 00:47:42;97308
+350;Pants;Sentinel Pants;12;Tradable;Uncommon;Any;11;Racing: Megas' Last Stand;1;0 days 00:15:54;0 days 00:47:42;97308
+374;Shirts;Sentinel Shirt;13;Tradable;Uncommon;Any;11;Racing: Megas' Last Stand;1;0 days 00:15:54;0 days 00:47:42;97308
+1070;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;26;Racing: Skypad Space Port;1;0 days 00:47:10;0 days 00:47:10;96220
+38;Pants;Zak Skate Shorts;13;Tradable;Rare;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:15:30;0 days 00:46:30;94860
+50;Shirts;Zak Skate Shirt;14;Tradable;Rare;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:15:30;0 days 00:46:30;94860
+33;Shoes;Zak Skate Sneakers;15;Tradable;Rare;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:15:30;0 days 00:46:30;94860
+1100;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;32;Racing: Dark Tree Clearing;1;0 days 00:43:30;0 days 00:43:30;88740
+1045;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;21;Racing: Sand Castle;1;0 days 00:41:35;0 days 00:41:35;84830
+242;Shirts;Breakneck Shirt;27;Tradable;Rare;Any;27;Racing: Nowhere Triangle;1;0 days 00:13:22;0 days 00:40:06;81804
+219;Shoes;Breakneck Boots;28;Tradable;Rare;Any;27;Racing: Nowhere Triangle;1;0 days 00:13:22;0 days 00:40:06;81804
+236;Pants;Breakneck Pants;29;Tradable;Rare;Any;27;Racing: Nowhere Triangle;1;0 days 00:13:22;0 days 00:40:06;81804
+1000;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;12;Racing: The Boneyard;1;0 days 00:40:05;0 days 00:40:05;81770
+1080;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;28;Racing: The Canopy;1;0 days 00:34:45;0 days 00:34:45;70890
+255;Shoes;Bubbles Dynamo Boots;20;Tradable;Ultra Rare;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:11:15;0 days 00:33:45;68850
+254;Pants;Bubbles Dynamo Legs;21;Tradable;Ultra Rare;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:11:15;0 days 00:33:45;68850
+273;Shirts;Bubbles Dynamo Torso;22;Tradable;Ultra Rare;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:11:15;0 days 00:33:45;68850
+57;Shoes;Coco Bird Feet;28;Tradable;Ultra Rare;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:11:05;0 days 00:33:15;67830
+67;Pants;Coco Plane Pants;29;Tradable;Ultra Rare;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:11:05;0 days 00:33:15;67830
+66;Shirts;Coco Plane Top;30;Tradable;Ultra Rare;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:11:05;0 days 00:33:15;67830
+48;Shirts;Nosegrind Shirt;16;Tradable;Rare;Any;18;Racing: Loch Mess;1;0 days 00:10:35;0 days 00:31:45;64770
+31;Shoes;Nosegrind Sneaks;17;Tradable;Rare;Any;18;Racing: Loch Mess;1;0 days 00:10:35;0 days 00:31:45;64770
+36;Pants;Nosegrind Shorts;18;Tradable;Rare;Any;18;Racing: Loch Mess;1;0 days 00:10:35;0 days 00:31:45;64770
+385;Shoes;Emerald Angel Shoes;23;Tradable;Rare;Any;24;Racing: Hani-Baba Temple;1;0 days 00:10:26;0 days 00:31:18;63852
+387;Pants;Emerald Angel Leggings;24;Tradable;Rare;Any;24;Racing: Hani-Baba Temple;1;0 days 00:10:26;0 days 00:31:18;63852
+403;Shirts;Emerald Angel Shirt;25;Tradable;Rare;Any;24;Racing: Hani-Baba Temple;1;0 days 00:10:26;0 days 00:31:18;63852
+1055;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;23;Racing: Construction Site;1;0 days 00:30:55;0 days 00:30:55;63070
+995;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;11;Racing: Megas' Last Stand;1;0 days 00:30:20;0 days 00:30:20;61880
+970;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;5;Racing: Megas' Last Stand (F);1;0 days 00:30:10;0 days 00:30:10;61540
+1085;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;29;Racing: Monkey Summit;1;0 days 00:29:05;0 days 00:29:05;59330
+134;Shirts;Underfist Shirt;8;Tradable;Rare;Any;9;Racing: Sweet Revenge;1;0 days 00:09:20;0 days 00:28:00;57120
+127;Pants;Underfist Pants;9;Tradable;Rare;Any;9;Racing: Sweet Revenge;1;0 days 00:09:20;0 days 00:28:00;57120
+128;Shoes;Underfist Boots;10;Tradable;Rare;Any;9;Racing: Sweet Revenge;1;0 days 00:09:20;0 days 00:28:00;57120
+1064;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;25;Racing: Tyrannical Gardens;1;0 days 00:27:42;0 days 00:27:42;56508
+1020;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;16;Racing: Sunny Bridges Auditorium;1;0 days 00:27:25;0 days 00:27:25;55930
+1004;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;13;Racing: Reactor Works;1;0 days 00:27:00;0 days 00:27:00;55080
+43;Weapon;Lightning Sword;2;Tradable;Rare;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:25:55.555555556;52904
+328;Weapon;Lightning Gun;1;Tradable;Uncommon;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:25:55.555555556;52904
+7;Hat;Baseball Helmet;1;Tradable;Common;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:25:55.555555556;52904
+11;Hat;Beanie Hat;1;Tradable;Common;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:25:55.555555556;52904
+46;Hat;Football Helmet;1;Tradable;Common;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:25:55.555555556;52904
+48;Hat;Watermelon Helmet;1;Tradable;Common;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:25:55.555555556;52904
+52;Hat;Bike Helmet;1;Tradable;Common;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:25:55.555555556;52904
+354;Shoes;Cheops Boots;31;Tradable;Rare;Any;33;Racing: Green Gullet;1;0 days 00:08:22;0 days 00:25:06;51204
+348;Pants;Cheops Leggings;32;Tradable;Rare;Any;33;Racing: Green Gullet;1;0 days 00:08:22;0 days 00:25:06;51204
+372;Shirts;Cheops Shirt;33;Tradable;Rare;Any;33;Racing: Green Gullet;1;0 days 00:08:22;0 days 00:25:06;51204
+397;Shirts;Toasty Shirt;4;Tradable;Rare;Any;4;Racing: Delightful Developments (F);1;0 days 00:08:02;0 days 00:24:06;49164
+381;Pants;Toasty Pants;5;Tradable;Rare;Any;4;Racing: Delightful Developments (F);1;0 days 00:08:02;0 days 00:24:06;49164
+379;Shoes;Toasty Boots;6;Tradable;Rare;Any;4;Racing: Delightful Developments (F);1;0 days 00:08:02;0 days 00:24:06;49164
+1060;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;24;Racing: Hani-Baba Temple;1;0 days 00:23:15;0 days 00:23:15;47430
+1015;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;15;Racing: Dizzy World;1;0 days 00:23:05;0 days 00:23:05;47090
+999;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;12;Racing: The Boneyard;1;0 days 00:21:12;0 days 00:21:12;43248
+1035;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;19;Racing: The Fissure;1;0 days 00:20:40;0 days 00:20:40;42160
+1094;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;31;Racing: Inferno Fields;1;0 days 00:20:30;0 days 00:20:30;41820
+975;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;7;Racing: Pokey Oaks Junior High;1;0 days 00:20:15;0 days 00:20:15;41310
+1099;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;32;Racing: Dark Tree Clearing;1;0 days 00:19:36;0 days 00:19:36;39984
+1105;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;33;Racing: Green Gullet;1;0 days 00:19:20;0 days 00:19:20;39440
+1075;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;27;Racing: Nowhere Triangle;1;0 days 00:19:00;0 days 00:19:00;38760
+965;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;4;Racing: Delightful Developments (F);1;0 days 00:18:55;0 days 00:18:55;38590
+144;Weapon;Quartz Hammer;2;Tradable;Uncommon;Any;2;Racing: Pokey Oaks Junior High (F);1;0 days 00:04:40;0 days 00:18:40;38080
+161;Weapon;Practice Sword;2;Tradable;Common;Any;2;Racing: Pokey Oaks Junior High (F);1;0 days 00:04:40;0 days 00:18:40;38080
+560;Weapon;Airbrush Blaster;2;Tradable;Common;Any;2;Racing: Pokey Oaks Junior High (F);1;0 days 00:04:40;0 days 00:18:40;38080
+564;Weapon;Surge Cannon;2;Tradable;Uncommon;Any;2;Racing: Pokey Oaks Junior High (F);1;0 days 00:04:40;0 days 00:18:40;38080
+1050;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;22;Racing: Crystalline Caverns;1;0 days 00:18:40;0 days 00:18:40;38080
+47;Shirts;Kickflip Shirt;13;Tradable;Rare;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:06:04;0 days 00:18:12;37128
+30;Shoes;Kickflip Sneaks;14;Tradable;Rare;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:06:04;0 days 00:18:12;37128
+35;Pants;Kickflip Shorts;15;Tradable;Rare;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:06:04;0 days 00:18:12;37128
+75;Shirts;Pardner Shirt;17;Tradable;Uncommon;Any;17;Racing: Jungle Training Area;1;0 days 00:05:50;0 days 00:17:30;35700
+66;Shoes;Pardner Boots;18;Tradable;Uncommon;Any;17;Racing: Jungle Training Area;1;0 days 00:05:50;0 days 00:17:30;35700
+68;Pants;Pardner Pants;19;Tradable;Uncommon;Any;17;Racing: Jungle Training Area;1;0 days 00:05:50;0 days 00:17:30;35700
+1069;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;26;Racing: Skypad Space Port;1;0 days 00:17:02;0 days 00:17:02;34748
+980;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;8;Racing: Mandark's House;1;0 days 00:16:10;0 days 00:16:10;32980
+1025;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;17;Racing: Jungle Training Area;1;0 days 00:16:10;0 days 00:16:10;32980
+1079;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;28;Racing: The Canopy;1;0 days 00:16:02;0 days 00:16:02;32708
+398;Shirts;Tundra Shirt;7;Tradable;Rare;Any;9;Racing: Sweet Revenge;1;0 days 00:05:20;0 days 00:16:00;32640
+382;Pants;Tundra Pants;8;Tradable;Rare;Any;9;Racing: Sweet Revenge;1;0 days 00:05:20;0 days 00:16:00;32640
+380;Shoes;Tundra Boots;9;Tradable;Rare;Any;9;Racing: Sweet Revenge;1;0 days 00:05:20;0 days 00:16:00;32640
+994;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;11;Racing: Megas' Last Stand;1;0 days 00:15:54;0 days 00:15:54;32436
+1010;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:15:30;0 days 00:15:30;31620
+1054;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;23;Racing: Construction Site;1;0 days 00:15:22;0 days 00:15:22;31348
+955;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;2;Racing: Pokey Oaks Junior High (F);1;0 days 00:14:10;0 days 00:14:10;28900
+1034;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;19;Racing: The Fissure;1;0 days 00:14:06;0 days 00:14:06;28764
+49;Shirts;Tailslide Shirt;19;Tradable;Rare;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:04:38;0 days 00:13:54;28356
+32;Shoes;Tailslide Sneaks;20;Tradable;Rare;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:04:38;0 days 00:13:54;28356
+37;Pants;Tailslide Shorts;21;Tradable;Rare;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:04:38;0 days 00:13:54;28356
+990;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;10;Racing: Delightful Developments;1;0 days 00:13:30;0 days 00:13:30;27540
+1074;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;27;Racing: Nowhere Triangle;1;0 days 00:13:22;0 days 00:13:22;27268
+1084;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;29;Racing: Monkey Summit;1;0 days 00:13:20;0 days 00:13:20;27200
+1014;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;15;Racing: Dizzy World;1;0 days 00:13:02;0 days 00:13:02;26588
+1044;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;21;Racing: Sand Castle;1;0 days 00:11:54;0 days 00:11:54;24276
+1049;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;22;Racing: Crystalline Caverns;1;0 days 00:11:26;0 days 00:11:26;23324
+1040;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:11:15;0 days 00:11:15;22950
+1;Glass;Beagle Puss;1;Tradable;Uncommon;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:11:06.666666667;22678
+6;Glass;Evil Kiva Cyber Eye Piece;1;Tradable;Uncommon;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:11:06.666666667;22678
+30;Hat;Pirate Hat;1;Tradable;Uncommon;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:11:06.666666667;22678
+1090;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:11:05;0 days 00:11:05;22610
+1019;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;16;Racing: Sunny Bridges Auditorium;1;0 days 00:11:02;0 days 00:11:02;22508
+206;Shirts;Barbary Shirt;28;Tradable;Rare;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:03:40;0 days 00:11:00;22440
+183;Shoes;Barbary Boots;29;Tradable;Rare;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:03:40;0 days 00:11:00;22440
+200;Pants;Barbary Pants;30;Tradable;Rare;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:03:40;0 days 00:11:00;22440
+974;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;7;Racing: Pokey Oaks Junior High;1;0 days 00:10:56;0 days 00:10:56;22304
+1030;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;18;Racing: Loch Mess;1;0 days 00:10:35;0 days 00:10:35;21590
+1059;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;24;Racing: Hani-Baba Temple;1;0 days 00:10:26;0 days 00:10:26;21284
+379;Shirts;Alpha Blacklight Shirt;3;Tradable;Uncommon;Any;3;Racing: Mandark's House (F);1;0 days 00:01:44;0 days 00:10:24;21216
+197;Weapon;Crayon Cannon;3;Tradable;Uncommon;Any;3;Racing: Mandark's House (F);1;0 days 00:01:44;0 days 00:10:24;21216
+486;Weapon;Titan Machine;3;Tradable;Uncommon;Any;3;Racing: Mandark's House (F);1;0 days 00:01:44;0 days 00:10:24;21216
+969;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;5;Racing: Megas' Last Stand (F);1;0 days 00:09:54;0 days 00:09:54;20196
+985;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;9;Racing: Sweet Revenge;1;0 days 00:09:20;0 days 00:09:20;19040
+1003;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;13;Racing: Reactor Works;1;0 days 00:08:48;0 days 00:08:48;17952
+1104;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;33;Racing: Green Gullet;1;0 days 00:08:22;0 days 00:08:22;17068
+1098;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;32;Racing: Dark Tree Clearing;1;0 days 00:08:05;0 days 00:08:05;16490
+964;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;4;Racing: Delightful Developments (F);1;0 days 00:08:02;0 days 00:08:02;16388
+979;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;8;Racing: Mandark's House;1;0 days 00:07:46;0 days 00:07:46;15844
+989;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;10;Racing: Delightful Developments;1;0 days 00:07:26;0 days 00:07:26;15164
+1068;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;26;Racing: Skypad Space Port;1;0 days 00:07:06;0 days 00:07:06;14484
+1009;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:06:04;0 days 00:06:04;12376
+960;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;3;Racing: Mandark's House (F);1;0 days 00:05:50;0 days 00:05:50;11900
+1024;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;17;Racing: Jungle Training Area;1;0 days 00:05:50;0 days 00:05:50;11900
+1029;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;18;Racing: Loch Mess;1;0 days 00:05:50;0 days 00:05:50;11900
+984;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;9;Racing: Sweet Revenge;1;0 days 00:05:20;0 days 00:05:20;10880
+1103;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;33;Racing: Green Gullet;1;0 days 00:04:55;0 days 00:04:55;10030
+954;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;2;Racing: Pokey Oaks Junior High (F);1;0 days 00:04:40;0 days 00:04:40;9520
+1039;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:04:38;0 days 00:04:38;9452
+1083;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;29;Racing: Monkey Summit;1;0 days 00:04:23;0 days 00:04:23;8942
+998;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;12;Racing: The Boneyard;1;0 days 00:04:08;0 days 00:04:08;8432
+1063;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;25;Racing: Tyrannical Gardens;1;0 days 00:04:08;0 days 00:04:08;8432
+1043;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;21;Racing: Sand Castle;1;0 days 00:03:58;0 days 00:03:58;8092
+1093;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;31;Racing: Inferno Fields;1;0 days 00:03:53;0 days 00:03:53;7922
+1073;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;27;Racing: Nowhere Triangle;1;0 days 00:03:50;0 days 00:03:50;7820
+1078;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;28;Racing: The Canopy;1;0 days 00:03:50;0 days 00:03:50;7820
+1089;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:03:40;0 days 00:03:40;7480
+48;Weapon;Aluminum Endsville Slugger;3;Tradable;Common;Any;3;Racing: Mandark's House (F);1;0 days 00:01:44;0 days 00:03:28;7072
+1013;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;15;Racing: Dizzy World;1;0 days 00:03:22;0 days 00:03:22;6868
+993;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;11;Racing: Megas' Last Stand;1;0 days 00:03:21;0 days 00:03:21;6834
+1053;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;23;Racing: Construction Site;1;0 days 00:03:21;0 days 00:03:21;6834
+950;Chest;Infected Zone CRATE RANK 1;0;Tradable;Any;Any;1;Racing: KND Training Area (F);1;0 days 00:03:10;0 days 00:03:10;6460
+1008;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;14;Racing: Charles Darwin Middle School;1;0 days 00:03:08;0 days 00:03:08;6392
+119;General;Gumball (Adaptium);0;Tradable;Any;Any;3;Racing: Mandark's House (F);1;0 days 00:01:02;0 days 00:03:06;6324
+120;General;Gumball (Blastons);0;Tradable;Any;Any;3;Racing: Mandark's House (F);1;0 days 00:01:02;0 days 00:03:06;6324
+121;General;Gumball (Cosmix);0;Tradable;Any;Any;3;Racing: Mandark's House (F);1;0 days 00:01:02;0 days 00:03:06;6324
+1018;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;16;Racing: Sunny Bridges Auditorium;1;0 days 00:02:58;0 days 00:02:58;6052
+1023;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;17;Racing: Jungle Training Area;1;0 days 00:02:39;0 days 00:02:39;5406
+968;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;5;Racing: Megas' Last Stand (F);1;0 days 00:02:09;0 days 00:02:09;4386
+983;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;9;Racing: Sweet Revenge;1;0 days 00:02:05;0 days 00:02:05;4250
+1033;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;19;Racing: The Fissure;1;0 days 00:02:01;0 days 00:02:01;4114
+1028;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;18;Racing: Loch Mess;1;0 days 00:01:59;0 days 00:01:59;4046
+973;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;7;Racing: Pokey Oaks Junior High;1;0 days 00:01:58;0 days 00:01:58;4012
+953;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;2;Racing: Pokey Oaks Junior High (F);1;0 days 00:01:52;0 days 00:01:52;3808
+1058;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;24;Racing: Hani-Baba Temple;1;0 days 00:01:45;0 days 00:01:45;3570
+959;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;3;Racing: Mandark's House (F);1;0 days 00:01:44;0 days 00:01:44;3536
+1088;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;30;Racing: Dinosaur Graveyard;1;0 days 00:01:42;0 days 00:01:42;3468
+949;Chest;Infected Zone CRATE RANK 2;0;Tradable;Any;Any;1;Racing: KND Training Area (F);1;0 days 00:01:40;0 days 00:01:40;3400
+978;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;8;Racing: Mandark's House;1;0 days 00:01:25;0 days 00:01:25;2890
+1048;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;22;Racing: Crystalline Caverns;1;0 days 00:01:19;0 days 00:01:19;2686
+963;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;4;Racing: Delightful Developments (F);1;0 days 00:01:11;0 days 00:01:11;2414
+988;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;10;Racing: Delightful Developments;1;0 days 00:01:06;0 days 00:01:06;2244
+1038;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;20;Racing: Cutts and Bruises Skate Park;1;0 days 00:01:03;0 days 00:01:03;2142
+958;Chest;Infected Zone CRATE RANK 3;0;Tradable;Any;Any;3;Racing: Mandark's House (F);1;0 days 00:01:02;0 days 00:01:02;2108

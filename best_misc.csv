@@ -1,0 +1,5 @@
+;name;src_id;src_name;srcs_in_loop;src_loop_time;time_till_misc
+0;Taro;2048;Lizard Queen;50;0 days 00:03:20.831222153;0 days 00:00:00.029272782
+1;FM;2048;Lizard Queen;50;0 days 00:03:20.831222153;0 days 00:00:00.065846301
+2;Potion;2054;Skull Basher;48;0 days 00:03:12.629772309;0 days 00:00:00.334426688
+3;Boost;2054;Skull Basher;48;0 days 00:03:12.629772309;0 days 00:00:00.334426688

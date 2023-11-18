@@ -1,0 +1,935 @@
+id;type;name;level;tradable;rarity;gender;src_id;src_name;srcs_in_loop;src_loop_time;time_till_item;approx_taros
+3;Back;Angel's Prayer;29;Tradable;Ultra Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:51:45.882352941;228004
+11;Back;Devil Wings;29;Tradable;Ultra Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:51:45.882352941;228004
+45;Glass;High Seas Captain;29;Tradable;Ultra Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:51:45.882352941;228004
+26;Hat;Battle Beret;29;Tradable;Ultra Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:51:45.882352941;228004
+78;Hat;Taijutsu Hood;33;Tradable;Ultra Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:51:45.882352941;228004
+61;Hat;Giga Shield Helmet;36;Tradable;Ultra Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:51:45.882352941;228004
+640;Shirts;Benmummy Shirt;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+641;Shirts;Benwolf Shirt;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+642;Shirts;Benviktor Shirt;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+543;Pants;Benmummy Pants;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+544;Pants;Benwolf Pants;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+545;Pants;Benviktor Pants;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+550;Shoes;Benmummy Shoes;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+551;Shoes;Benwolf Feet;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+552;Shoes;Benviktor Boots;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+69;Hat;Speedster Helmet;21;Tradable;Ultra Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:00:23.529411765;123216
+79;Hat;Jojutsu Hood;21;Tradable;Ultra Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:00:23.529411765;123216
+102;Hat;Green Dynamo Helmet;21;Tradable;Ultra Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:00:23.529411765;123216
+35;Hat;Snowboard Cap;22;Tradable;Ultra Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:00:23.529411765;123216
+51;Hat;XLR8 Speed Helmet;25;Tradable;Ultra Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:00:23.529411765;123216
+56;Hat;Chromastone Helmet;12;Tradable;Ultra Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:00:23.529411765;123216
+88;Hat;Coco Palm Tree Headpiece;25;Tradable;Ultra Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 01:00:23.529411765;123216
+86;Hat;Sara Bellum Wig;29;Tradable;Common;Girl;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:42:57.030812325;87618
+643;Shirts;Fusion Wraith Shirt;0;Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:42:01.008403361;85714
+546;Pants;Fusion Wraith Pants;0;Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:42:01.008403361;85714
+553;Shoes;Fusion Wraith Shoes;0;Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:42:01.008403361;85714
+1;Back;Angel Wings;29;Tradable;Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:41:05.397923875;83810
+44;Glass;High Seas Raider;29;Tradable;Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:41:05.397923875;83810
+20;Hat;Eduardo Horned Helmet;29;Tradable;Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:41:05.397923875;83810
+25;Hat;Military Beret;29;Tradable;Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:41:05.397923875;83810
+2;Back;Archangel Wings;33;Tradable;Rare;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:41:05.397923875;83810
+46;Back;Uniscorn Cape;29;Tradable;Common;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:37:34.901960784;76670
+39;Glass;Xtreme Snowboard Goggles;29;Tradable;Common;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:37:34.901960784;76670
+27;Hat;Truffles Hat;29;Tradable;Common;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:37:34.901960784;76670
+28;Hat;Sailor Cap;29;Tradable;Common;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:37:34.901960784;76670
+59;Hat;Cyber Shield Helmet;29;Tradable;Common;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:37:34.901960784;76670
+62;Hat;Dinobonoid Helmet;29;Tradable;Common;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:37:34.901960784;76670
+70;Hat;Johnny Hair;29;Tradable;Common;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:37:34.901960784;76670
+3;Glass;Aku's Flaming Eye;29;Tradable;Uncommon;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:32:59.913916786;67320
+60;Hat;Hyper Shield Helmet;29;Tradable;Uncommon;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:32:59.913916786;67320
+68;Hat;Superhero Cowl;29;Tradable;Uncommon;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:32:59.913916786;67320
+80;Hat;Kenjutsu Hood;29;Tradable;Uncommon;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:32:59.913916786;67320
+40;Glass;Xtra Xtreme Goggles;33;Tradable;Uncommon;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:32:59.913916786;67320
+81;Hat;Genjutsu Hood;33;Tradable;Uncommon;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:32:59.913916786;67320
+11;Glass;Action Blindfold;1;Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+44;Hat;Evil Clown Head;1;Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+26;Glass;Lucky Girl Mask;21;Tradable;Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:16.608996540;61778
+38;Glass;Xtreme Ski Goggles;21;Tradable;Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:16.608996540;61778
+43;Glass;High Seas Buccaneer;21;Tradable;Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:16.608996540;61778
+50;Hat;Extraterrestrial Beanie;21;Tradable;Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:16.608996540;61778
+5;Hat;Eagle Headdress;25;Tradable;Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:16.608996540;61778
+58;Hat;Mecha Shield Helmet;25;Tradable;Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:16.608996540;61778
+77;Hat;Ninjutsu Hood;25;Tradable;Rare;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:16.608996540;61778
+26;Back;Dark Avenger Cape;13;Tradable;Ultra Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:23:31.764705882;48008
+27;Back;Major Glory Cape;13;Tradable;Ultra Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:23:31.764705882;48008
+15;Glass;Space Cop Mask;13;Tradable;Ultra Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:23:31.764705882;48008
+23;Hat;Hector Helmet;13;Tradable;Ultra Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:23:31.764705882;48008
+95;Hat;Tutankhamun Headpiece;17;Tradable;Ultra Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:23:31.764705882;48008
+99;Hat;Blue Dynamo Helmet;17;Tradable;Ultra Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:23:31.764705882;48008
+25;Glass;Scouter Lens;21;Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+49;Hat;Alien Beanie;21;Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+66;Hat;Fred Fredburger Mask;21;Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+91;Hat;Skull Helmet;21;Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+57;Hat;Mega Shield Helmet;23;Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+41;Back;Ornamental Cloak;25;Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+19;Hat;Sheriff Hat;25;Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+75;Hat;Monkey Helmet;25;Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+35;Glass;Ski Goggles;21;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+3;Hat;Bear Headdress;21;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+4;Hat;Wolf Headdress;21;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+17;Hat;Buckaroo Hat;21;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+22;Hat;Frog Hat;21;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+10;Glass;Eustace's Fright Mask;25;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+37;Glass;Snowboard Goggles;25;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+18;Hat;Rawhide Hat;25;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+47;Hat;Hammer Hat;25;Tradable;Common;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:00.504201680;42874
+6;Back;Butterfly Wings;5;Tradable;Ultra Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:20:35.294117647;41990
+8;Back;Dark Cloak;5;Tradable;Ultra Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:20:35.294117647;41990
+21;Back;Nergal Tendrils;5;Tradable;Ultra Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:20:35.294117647;41990
+27;Glass;Major Glory Mask;9;Tradable;Ultra Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:20:35.294117647;41990
+12;Hat;Brainstorm Helmet;9;Tradable;Ultra Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:20:35.294117647;41990
+96;Hat;Uniscorn Helmet;9;Tradable;Ultra Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:20:35.294117647;41990
+62;Glass;Upchuck Mouth;1;Tradable;Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:18:28.597285068;37706
+193;Hat;Ship Mechomorph Helmet;1;Tradable;Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:18:28.597285068;37706
+198;Hat;Armordrillo Helmet;1;Tradable;Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:18:28.597285068;37706
+204;Hat;Water Hazard Helmet;1;Tradable;Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:18:28.597285068;37706
+205;Hat;Swampfire Helmet;1;Tradable;Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:18:28.597285068;37706
+200;Hat;Lodestar Helmet;1;Tradable;Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:18:28.597285068;37706
+231;Hat;Necrofriggian Head;1;Tradable;Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:18:28.597285068;37706
+186;Hat;Nanomech Head;1;Tradable;Ultra Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:14:42.352941176;29988
+229;Hat;Ultimate Echo Echo Head;1;Tradable;Ultra Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:14:42.352941176;29988
+230;Hat;Ultimate Big Chill Helmet;1;Tradable;Ultra Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:14:42.352941176;29988
+9;Back;Bladed Cloak;13;Tradable;Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:13:50.449826990;28220
+9;Glass;Cyber Goggles;13;Tradable;Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:13:50.449826990;28220
+32;Glass;Pirate's Eye Patch;13;Tradable;Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:13:50.449826990;28220
+2;Hat;Fox Headdress;13;Tradable;Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:13:50.449826990;28220
+84;Hat;Doyle Mask;13;Tradable;Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:13:50.449826990;28220
+10;Back;Tribal Cloak;17;Tradable;Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:13:50.449826990;28220
+29;Glass;Mask of Ah Puk;17;Tradable;Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:13:50.449826990;28220
+16;Hat;Cowpoke Hat;17;Tradable;Rare;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:13:50.449826990;28220
+28;Glass;Mayor's Monocle;13;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+36;Glass;Billy Nose;13;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+21;Hat;Felt Hat;13;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+36;Hat;Sombrero;13;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+41;Hat;Wizard Hat;13;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+43;Hat;Electro Hat;13;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+87;Hat;Scurvy Day Helmet;13;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+98;Hat;Diving Helmet;13;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+48;Back;Vampire Cape;17;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+16;Glass;Gas Mask;17;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+8;Hat;Bean Scout Hat;17;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+34;Hat;Ski Cap;17;Tradable;Common;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:11:03.865546218;22576
+30;Back;Octi Backpack;5;Tradable;Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:10:22.837370242;21182
+2;Glass;Numbuh One Shades;5;Tradable;Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:10:22.837370242;21182
+24;Hat;Masked Mumbler Helmet;5;Tradable;Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:10:22.837370242;21182
+39;Hat;Tangelo Colander;5;Tradable;Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:10:22.837370242;21182
+30;Glass;Orlando Bloo Disguise;9;Tradable;Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:10:22.837370242;21182
+6;Hat;Barbarian Helmet;9;Tradable;Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:10:22.837370242;21182
+93;Hat;Jeff Helmet;9;Tradable;Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:10:22.837370242;21182
+33;Hat;Round Ribbon Hat;5;Tradable;Common;Girl;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:09:24.425770308;19176
+8;Glass;Diva Dynamite Goggles;5;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+12;Glass;Funny Eyes;5;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+19;Glass;Him Mask;5;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+9;Hat;Bear Hat;5;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+32;Hat;Rainbow Monkey Helmet;5;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+38;Hat;Sun Visor;5;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+55;Hat;Chicken Hat;5;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+13;Glass;Domino Mask;7;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+65;Hat;Mock 5 Helmet;7;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+5;Glass;Combat Goggles;9;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+23;Glass;Infrared Goggles;9;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+31;Glass;Pink Wing Glasses;9;Tradable;Common;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:08:41.008403361;17714
+36;Back;Rocket Pack;13;Tradable;Uncommon;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:07:33.371592539;15402
+1;Hat;Deer Headdress;13;Tradable;Uncommon;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:07:33.371592539;15402
+15;Hat;Pardner Hat;13;Tradable;Uncommon;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:07:33.371592539;15402
+42;Hat;Wooden Hat;13;Tradable;Uncommon;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:07:33.371592539;15402
+94;Hat;Pharaoh Headpiece;13;Tradable;Uncommon;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:07:33.371592539;15402
+17;Back;Echo Echo Sonic Pack;17;Tradable;Uncommon;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:07:33.371592539;15402
+22;Glass;Dexter Glasses;17;Tradable;Uncommon;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:07:33.371592539;15402
+10;Hat;Gatsby Cap;17;Tradable;Uncommon;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:07:33.371592539;15402
+23;Back;Jetray Wings;1;Tradable;Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:39.653979239;13600
+25;Back;Long Cloak;1;Tradable;Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:39.653979239;13600
+34;Back;P.U.T.T.U.H.;1;Tradable;Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:39.653979239;13600
+17;Glass;S.M.E.L.L.M.E.T.;1;Tradable;Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:39.653979239;13600
+24;Glass;Jetray Mask;1;Tradable;Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:39.653979239;13600
+42;Glass;High Seas Swabbie;1;Tradable;Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:39.653979239;13600
+18;Back;Fish Bag;5;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+41;Glass;High Seas Stowaway;5;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+29;Hat;Numbuh Two Flight Helmet;5;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+45;Hat;Delightful Football Helmet;5;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+64;Hat;Mandark Racing Helmet;5;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+76;Hat;Motorcycle Helmet;5;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+4;Glass;Bat Sunglasses;9;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+21;Glass;Hypno Glasses;9;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+34;Glass;Korean Mask;9;Tradable;Uncommon;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:06:40.286944046;13600
+1260;Chest;Pumpkin CRATE;0;Tradable;Any;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+1176;Chest;Sooper Dooper Darklands E.G.G.;0;Tradable;Any;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:04:39.411764706;9500
+1180;Chest;Mystery Darklands E.G.G.;0;Tradable;Any;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:04:39.411764706;9486
+35;Back;Bunny Bag;1;Tradable;Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:03:51.092436975;7854
+7;Hat;Baseball Helmet;1;Tradable;Common;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:03:51.092436975;7854
+11;Hat;Beanie Hat;1;Tradable;Common;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:03:51.092436975;7854
+46;Hat;Football Helmet;1;Tradable;Common;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:03:51.092436975;7854
+48;Hat;Watermelon Helmet;1;Tradable;Common;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:03:51.092436975;7854
+52;Hat;Bike Helmet;1;Tradable;Common;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:03:51.092436975;7854
+288;Hat;Benmummy Helmet;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:03:40.588235294;7500
+104;Back;Benwolf Tail;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:03:40.588235294;7500
+289;Hat;Benviktor Brow;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:03:40.588235294;7500
+105;Back;Benviktor Backpack;4;Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:03:40.588235294;7500
+1179;Chest;Mystery Darklands E.G.G.;0;Tradable;Any;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:03:37.647058824;7412
+1175;Chest;Sooper Darklands E.G.G.;0;Tradable;Any;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:03:37.647058824;7400
+1178;Chest;Mystery Darklands E.G.G.;0;Tradable;Any;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:47.647058824;5712
+1174;Chest;Special Darklands E.G.G.;0;Tradable;Any;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:47.647058824;5700
+15;Back;Dracula Cloak;1;Tradable;Uncommon;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:37.819225251;5372
+1;Glass;Beagle Puss;1;Tradable;Uncommon;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:37.819225251;5372
+6;Glass;Evil Kiva Cyber Eye Piece;1;Tradable;Uncommon;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:37.819225251;5372
+30;Hat;Pirate Hat;1;Tradable;Uncommon;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:37.819225251;5372
+70;Back;Chromastone Shards;1;Tradable;Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:38.371040724;5372
+1181;Chest;Last Year's Pumpkin CRATE;0;Tradable;Any;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+290;Hat;Blaston Wraith Mask;4;Tradable;Rare;Any;3277;Vendor: Holosuit Hannah;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+106;Back;Blaston Wraith Wings;4;Tradable;Rare;Any;3277;Vendor: Holosuit Hannah;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+1173;Chest;Standard Darklands E.G.G.;0;Tradable;Any;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:15.294117647;4600
+1177;Chest;Mystery Darklands E.G.G.;0;Tradable;Any;Any;3217;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:15.294117647;4590
+1168;Chest;Sooper Dooper Wilds E.G.G.;0;Tradable;Any;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:09.411764706;4400
+1172;Chest;Mystery Wilds E.G.G.;0;Tradable;Any;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:02:09.411764706;4386
+1171;Chest;Mystery Wilds E.G.G.;0;Tradable;Any;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:01:45.882352941;3604
+1167;Chest;Sooper Wilds E.G.G.;0;Tradable;Any;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:01:45.882352941;3600
+1220;Chest;Mechomorph E.G.G.;0;Tradable;Any;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:01:42.941176471;3500
+1221;Chest;Mechomorph E.G.G.;0;Tradable;Any;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:01:42.941176471;3500
+1166;Chest;Special Wilds E.G.G.;0;Tradable;Any;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:01:28.235294118;3000
+478;Shirts;TOM 3.0 Chest;15;Tradable;Rare;Any;3781;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:28.235294118;3000
+168;Hat;TOM 3.0 Helmet;1;Tradable;Common;Any;3782;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:28.235294118;3000
+721;Weapon;Absolution Phaser;15;Tradable;Rare;Any;3783;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:28.235294118;3000
+723;Weapon;Absolution Disintegrator;15;Tradable;Rare;Any;3795;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:28.235294118;3000
+1170;Chest;Mystery Wilds E.G.G.;0;Tradable;Any;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:01:28.235294118;2992
+476;Shirts;TOM 1.0 Chest;10;Tradable;Rare;Any;3781;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+287;Hat;TOM 4.0 Helmet;4;Tradable;Rare;Any;3796;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+1164;Chest;Mystery Downtown E.G.G.;0;Tradable;Any;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:58.823529412;2006
+1169;Chest;Mystery Wilds E.G.G.;0;Tradable;Any;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:58.823529412;2006
+1160;Chest;Sooper Dooper Downtown E.G.G.;0;Tradable;Any;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:58.823529412;2000
+1165;Chest;Standard Wilds E.G.G.;0;Tradable;Any;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:58.823529412;2000
+167;Hat;TOM 1.0 Helmet;1;Tradable;Common;Any;3782;Vendor: Clyde;1;0 days 00:00:01;0 days 00:00:58.823529412;2000
+720;Weapon;Absolution Blaster;10;Tradable;Rare;Any;3783;Vendor: Clyde;1;0 days 00:00:01;0 days 00:00:58.823529412;2000
+1159;Chest;Sooper Downtown E.G.G.;0;Tradable;Any;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:47.058823529;1600
+1163;Chest;Mystery Downtown E.G.G.;0;Tradable;Any;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:47.058823529;1598
+1152;Chest;Sooper Dooper Suburbs E.G.G.;0;Tradable;Any;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:44.117647059;1500
+1156;Chest;Mystery Suburbs E.G.G.;0;Tradable;Any;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:44.117647059;1496
+130;Weapon;Blackjack Sword;36;Tradable;Common;Any;2820;Vendor: Plumber Luca ;1;0 days 00:00:01;0 days 00:00:40.882352941;1390
+159;Weapon;Sawswipe Scimitar;36;Tradable;Common;Any;2820;Vendor: Plumber Luca ;1;0 days 00:00:01;0 days 00:00:40.882352941;1390
+114;Weapon;Venom Whip;35;Tradable;Common;Any;2820;Vendor: Plumber Luca ;1;0 days 00:00:01;0 days 00:00:38.941176471;1324
+129;Weapon;Hornswaggle Sword;35;Tradable;Common;Any;2820;Vendor: Plumber Luca ;1;0 days 00:00:01;0 days 00:00:38.941176471;1324
+27;Shirts;Upgrade Varsity Jacket (Boys);36;Tradable;Common;Boy;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:38.176470588;1298
+223;Shirts;Improved Upndown Tee (Boys);36;Tradable;Common;Boy;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:38.176470588;1298
+238;Shirts;Improved Tabby Hoodie (Girls);36;Tradable;Common;Girl;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:38.176470588;1298
+286;Shirts;Improved Princess Tank (Girls);36;Tradable;Common;Girl;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:38.176470588;1298
+32;Weapon;Throwing Mail;34;Tradable;Common;Any;2820;Vendor: Plumber Luca ;1;0 days 00:00:01;0 days 00:00:37.088235294;1261
+158;Weapon;Sawstrike Scimitar;34;Tradable;Common;Any;2820;Vendor: Plumber Luca ;1;0 days 00:00:01;0 days 00:00:37.088235294;1261
+31;Shirts;Megas Varsity Jacket (Boys);35;Tradable;Common;Boy;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:36.352941176;1236
+222;Shirts;Upndown Tee (Boys);35;Tradable;Common;Boy;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:36.352941176;1236
+237;Shirts;Tabby Hoodie (Girls);35;Tradable;Common;Girl;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:36.352941176;1236
+285;Shirts;Princess Tank (Girls);35;Tradable;Common;Girl;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:36.352941176;1236
+22;Pants;Mechomorph Denims (Boys);36;Tradable;Common;Boy;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:35.441176471;1205
+99;Pants;Improved Upndown Cargos (Boys);36;Tradable;Common;Boy;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:35.441176471;1205
+114;Pants;Improved Zeppelin Shorts (Girls);36;Tradable;Common;Girl;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:35.441176471;1205
+267;Pants;Improved Schoolgirl Skirt (Girls);36;Tradable;Common;Girl;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:35.441176471;1205
+20;Weapon;Whizbomb;33;Tradable;Common;Any;2814;Vendor: Agent Atoms ;1;0 days 00:00:01;0 days 00:00:35.323529412;1201
+157;Weapon;Sawblade Scimitar;33;Tradable;Common;Any;2814;Vendor: Agent Atoms ;1;0 days 00:00:01;0 days 00:00:35.323529412;1201
+1144;Chest;Sooper Dooper Future E.G.G.;0;Tradable;Any;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:35.294117647;1200
+1151;Chest;Sooper Suburbs E.G.G.;0;Tradable;Any;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:35.294117647;1200
+1158;Chest;Special Downtown E.G.G.;0;Tradable;Any;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:35.294117647;1200
+1148;Chest;Mystery Future E.G.G.;0;Tradable;Any;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:35.294117647;1190
+1155;Chest;Mystery Suburbs E.G.G.;0;Tradable;Any;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:35.294117647;1190
+1162;Chest;Mystery Downtown E.G.G.;0;Tradable;Any;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:35.294117647;1190
+30;Shirts;Improved Weird World Varsity Jacket (Boys);34;Tradable;Common;Boy;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:34.617647059;1177
+102;Shirts;Improved Pendant Tee (Boys);34;Tradable;Common;Boy;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:34.617647059;1177
+236;Shirts;Improved Nine Lives Hoodie (Girls);34;Tradable;Common;Girl;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:34.617647059;1177
+353;Shirts;Improved Cherub Shirt (Girls);34;Tradable;Common;Girl;2821;Vendor: Plumber Jack ;1;0 days 00:00:01;0 days 00:00:34.617647059;1177
+26;Pants;Jersey Denims (Boys);35;Tradable;Common;Boy;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:33.764705882;1148
+98;Pants;Upndown Cargos (Boys);35;Tradable;Common;Boy;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:33.764705882;1148
+113;Pants;Zeppelin Shorts (Girls);35;Tradable;Common;Girl;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:33.764705882;1148
+266;Pants;Schoolgirl Skirt (Girls);35;Tradable;Common;Girl;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:33.764705882;1148
+134;Weapon;Seatooth Sabre;32;Tradable;Common;Any;2814;Vendor: Agent Atoms ;1;0 days 00:00:01;0 days 00:00:33.647058824;1144
+559;Weapon;Extra C.H.A.N.G.E.M.A.K.E.R.;32;Tradable;Common;Any;2814;Vendor: Agent Atoms ;1;0 days 00:00:01;0 days 00:00:33.647058824;1144
+29;Shirts;Weird World Varsity Jacket (Boys);33;Tradable;Common;Boy;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:32.970588235;1121
+221;Shirts;Improved Lopsided Tee (Boys);33;Tradable;Common;Boy;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:32.970588235;1121
+235;Shirts;Nine Lives Hoodie (Girls);33;Tradable;Common;Girl;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:32.970588235;1121
+352;Shirts;Cherub Shirt (Girls);33;Tradable;Common;Girl;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:32.970588235;1121
+12;Shoes;Upgrade Kicks (Boys);36;Tradable;Common;Boy;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:32.705882353;1112
+100;Shoes;Improved Upndown Trainers (Boys);36;Tradable;Common;Boy;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:32.705882353;1112
+115;Shoes;Improved Tabby Boots (Girls);36;Tradable;Common;Girl;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:32.705882353;1112
+273;Shoes;Improved Princess Oxford (Girls);36;Tradable;Common;Girl;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:32.705882353;1112
+25;Pants;Improved Argost Denims (Boys);34;Tradable;Common;Boy;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:32.147058824;1093
+213;Pants;Improved Puffy Trouser (Boys);34;Tradable;Common;Boy;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:32.147058824;1093
+112;Pants;Improved Hopper Shorts (Girls);34;Tradable;Common;Girl;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:32.147058824;1093
+329;Pants;Improved Valentine Skirt (Girls);34;Tradable;Common;Girl;2822;Vendor: Plumber Rob ;1;0 days 00:00:01;0 days 00:00:32.147058824;1093
+369;Weapon;Bullhorn Boomstick Annihilator;31;Tradable;Common;Any;2814;Vendor: Agent Atoms ;1;0 days 00:00:01;0 days 00:00:32.058823529;1090
+387;Weapon;Toy Bazooka Mint;31;Tradable;Common;Any;2814;Vendor: Agent Atoms ;1;0 days 00:00:01;0 days 00:00:32.058823529;1090
+101;Shirts;Pendant Tee (Boys);32;Tradable;Common;Boy;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:31.411764706;1068
+220;Shirts;Lopsided Tee (Boys);32;Tradable;Common;Boy;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:31.411764706;1068
+234;Shirts;Improved Whiskers Hoodie (Girls);32;Tradable;Common;Girl;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:31.411764706;1068
+351;Shirts;Improved Heroine Shirt (Girls);32;Tradable;Common;Girl;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:31.411764706;1068
+16;Shoes;Coop Kicks (Boys);35;Tradable;Common;Boy;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:31.147058824;1059
+99;Shoes;Upndown Trainers (Boys);35;Tradable;Common;Boy;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:31.147058824;1059
+114;Shoes;Tabby Boots (Girls);35;Tradable;Common;Girl;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:31.147058824;1059
+272;Shoes;Princess Oxford (Girls);35;Tradable;Common;Girl;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:31.147058824;1059
+24;Pants;Argost Denims (Boys);33;Tradable;Common;Boy;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:30.617647059;1041
+97;Pants;Improved Lopsided Cargos (Boys);33;Tradable;Common;Boy;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:30.617647059;1041
+111;Pants;Hopper Shorts (Girls);33;Tradable;Common;Girl;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:30.617647059;1041
+328;Pants;Valentine Skirt (Girls);33;Tradable;Common;Girl;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:30.617647059;1041
+128;Weapon;Landlubber Sword;30;Tradable;Common;Any;2495;Vendor: Mandroid M-37;1;0 days 00:00:01;0 days 00:00:30.529411765;1038
+313;Weapon;Dolphin Gun;30;Tradable;Common;Any;2495;Vendor: Mandroid M-37;1;0 days 00:00:01;0 days 00:00:30.529411765;1038
+99;Shirts;Superior Cameo Tee (Boys);31;Tradable;Common;Boy;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:29.911764706;1017
+219;Shirts;Improved Berserker Tee (Boys);31;Tradable;Common;Boy;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:29.911764706;1017
+233;Shirts;Whiskers Hoodie (Girls);31;Tradable;Common;Girl;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:29.911764706;1017
+350;Shirts;Heroine Shirt (Girls);31;Tradable;Common;Girl;2815;Vendor: Agent Greenblatt ;1;0 days 00:00:01;0 days 00:00:29.911764706;1017
+15;Shoes;Improved Argost Kicks (Boys);34;Tradable;Common;Boy;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:29.676470588;1009
+196;Shoes;Improved Chrono Skaters (Boys);34;Tradable;Common;Boy;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:29.676470588;1009
+113;Shoes;Improved Nine Lives Boots (Girls);34;Tradable;Common;Girl;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:29.676470588;1009
+335;Shoes;Improved Cherub Mid-Boot (Girls);34;Tradable;Common;Girl;2823;Vendor: Plumber Keshawn ;1;0 days 00:00:01;0 days 00:00:29.676470588;1009
+20;General;anitdote Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+22;General;bonus Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+7;General;damage Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+27;General;drain Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+23;General;freedom Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+19;General;guard Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+8;General;heal Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+13;General;jump Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+26;General;leech Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+16;General;radar Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+24;General;recall Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+18;General;revive Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+25;General;rocket Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+14;General;run Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+21;General;scavenge Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+9;General;sleep Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+10;General;snare Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+15;General;sneak Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+12;General;stun Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+17;General;treasure finder Power Item;0;Tradable;Any;Any;1982;Vendor: Power Shopkeeper;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+1143;Chest;Sooper Future E.G.G.;0;Tradable;Any;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+96;Pants;Lopsided Cargos (Boys);32;Tradable;Common;Boy;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:29.176470588;992
+212;Pants;Puffy Trouser (Boys);32;Tradable;Common;Boy;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:29.176470588;992
+110;Pants;Improved Balloon Shorts (Girls);32;Tradable;Common;Girl;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:29.176470588;992
+327;Pants;Improved Honey Pleat Skirt (Girls);32;Tradable;Common;Girl;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:29.176470588;992
+133;Weapon;Sharktooth Sabre;29;Tradable;Common;Any;2495;Vendor: Mandroid M-37;1;0 days 00:00:01;0 days 00:00:29.088235294;989
+558;Weapon;Spare C.H.A.N.G.E.M.A.K.E.R.;29;Tradable;Common;Any;2495;Vendor: Mandroid M-37;1;0 days 00:00:01;0 days 00:00:29.088235294;989
+1147;Chest;Mystery Future E.G.G.;0;Tradable;Any;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:29.411764706;986
+98;Shirts;Improved Cameo Tee (Boys);30;Tradable;Common;Boy;2496;Vendor: Mandroid M-51;1;0 days 00:00:01;0 days 00:00:28.500000;969
+218;Shirts;Berserker Tee (Boys);30;Tradable;Common;Boy;2496;Vendor: Mandroid M-51;1;0 days 00:00:01;0 days 00:00:28.500000;969
+231;Shirts;Superior Meow Hoodie (Girls);30;Tradable;Common;Girl;2496;Vendor: Mandroid M-51;1;0 days 00:00:01;0 days 00:00:28.500000;969
+349;Shirts;Improved Athena Shirt (Girls);30;Tradable;Common;Girl;2496;Vendor: Mandroid M-51;1;0 days 00:00:01;0 days 00:00:28.500000;969
+14;Shoes;Argost Kicks (Boys);33;Tradable;Common;Boy;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:28.264705882;961
+98;Shoes;Improved Lopsided Runners (Boys);33;Tradable;Common;Boy;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:28.264705882;961
+112;Shoes;Nine Lives Boots (Girls);33;Tradable;Common;Girl;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:28.264705882;961
+334;Shoes;Cherub Mid-Boot (Girls);33;Tradable;Common;Girl;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:28.264705882;961
+95;Pants;Improved Berserker Cargos (Boys);31;Tradable;Common;Boy;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:27.794117647;945
+210;Pants;Superior Down Trouser (Boys);31;Tradable;Common;Boy;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:27.794117647;945
+109;Pants;Balloon Shorts (Girls);31;Tradable;Common;Girl;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:27.794117647;945
+326;Pants;Honey Pleat Skirt (Girls);31;Tradable;Common;Girl;2816;Vendor: Agent Stephens ;1;0 days 00:00:01;0 days 00:00:27.794117647;945
+19;Weapon;Whizboom;28;Tradable;Common;Any;2487;Vendor: Rocka Rollo;1;0 days 00:00:01;0 days 00:00:27.705882353;942
+329;Weapon;Electric Storm Gun;28;Tradable;Common;Any;2487;Vendor: Rocka Rollo;1;0 days 00:00:01;0 days 00:00:27.705882353;942
+97;Shirts;Cameo Tee (Boys);29;Tradable;Common;Boy;2496;Vendor: Mandroid M-51;1;0 days 00:00:01;0 days 00:00:27.147058824;923
+216;Shirts;Superior Battle Tee (Boys);29;Tradable;Common;Boy;2496;Vendor: Mandroid M-51;1;0 days 00:00:01;0 days 00:00:27.147058824;923
+230;Shirts;Improved Meow Hoodie (Girls);29;Tradable;Common;Girl;2496;Vendor: Mandroid M-51;1;0 days 00:00:01;0 days 00:00:27.147058824;923
+348;Shirts;Athena Shirt (Girls);29;Tradable;Common;Girl;2496;Vendor: Mandroid M-51;1;0 days 00:00:01;0 days 00:00:27.147058824;923
+97;Shoes;Lopsided Runners (Boys);32;Tradable;Common;Boy;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:26.911764706;915
+195;Shoes;Chrono Skaters (Boys);32;Tradable;Common;Boy;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:26.911764706;915
+111;Shoes;Improved Whiskers Boots (Girls);32;Tradable;Common;Girl;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:26.911764706;915
+333;Shoes;Improved Heroine Mid-Boot (Girls);32;Tradable;Common;Girl;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:26.911764706;915
+197;Pants;Headbanger Pants;30;Tradable;Common;Any;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:26.470588235;900
+94;Pants;Berserker Cargos (Boys);30;Tradable;Common;Boy;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:26.470588235;900
+209;Pants;Improved Down Trouser (Boys);30;Tradable;Common;Boy;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:26.470588235;900
+107;Pants;Superior Siamese Shorts (Girls);30;Tradable;Common;Girl;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:26.470588235;900
+325;Pants;Improved Knife Pleat Skirt (Girls);30;Tradable;Common;Girl;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:26.470588235;900
+1150;Chest;Special Suburbs E.G.G.;0;Tradable;Any;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:26.470588235;900
+127;Weapon;Scallywag Sword;27;Tradable;Common;Any;2487;Vendor: Rocka Rollo;1;0 days 00:00:01;0 days 00:00:26.382352941;897
+388;Weapon;Toy Bazooka NIB;27;Tradable;Common;Any;2487;Vendor: Rocka Rollo;1;0 days 00:00:01;0 days 00:00:26.382352941;897
+1154;Chest;Mystery Suburbs E.G.G.;0;Tradable;Any;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:26.470588235;884
+95;Shirts;Superior Triangle Tee (Boys);28;Tradable;Common;Boy;2488;Vendor: Bigga Betta;1;0 days 00:00:01;0 days 00:00:25.852941176;879
+215;Shirts;Improved Battle Tee (Boys);28;Tradable;Common;Boy;2488;Vendor: Bigga Betta;1;0 days 00:00:01;0 days 00:00:25.852941176;879
+229;Shirts;Meow Hoodie (Girls);28;Tradable;Common;Girl;2488;Vendor: Bigga Betta;1;0 days 00:00:01;0 days 00:00:25.852941176;879
+346;Shirts;Superior Olympia Shirt (Girls);28;Tradable;Common;Girl;2488;Vendor: Bigga Betta;1;0 days 00:00:01;0 days 00:00:25.852941176;879
+96;Shoes;Improved Berserker Sneakers (Boys);31;Tradable;Common;Boy;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:25.647058824;872
+193;Shoes;Superior Cyber Skaters (Boys);31;Tradable;Common;Boy;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:25.647058824;872
+110;Shoes;Whiskers Boots (Girls);31;Tradable;Common;Girl;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:25.647058824;872
+332;Shoes;Heroine Mid-Boot (Girls);31;Tradable;Common;Girl;2817;Vendor: Agent Burger;1;0 days 00:00:01;0 days 00:00:25.647058824;872
+196;Pants;Roller Pants;29;Tradable;Common;Any;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:25.205882353;857
+92;Pants;Superior Battle Cargos (Boys);29;Tradable;Common;Boy;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:25.205882353;857
+208;Pants;Down Trouser (Boys);29;Tradable;Common;Boy;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:25.205882353;857
+106;Pants;Improved Siamese Shorts (Girls);29;Tradable;Common;Girl;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:25.205882353;857
+324;Pants;Knife Pleat Skirt (Girls);29;Tradable;Common;Girl;2497;Vendor: Mandroid M-52;1;0 days 00:00:01;0 days 00:00:25.205882353;857
+132;Weapon;Bucktooth Sabre;26;Tradable;Common;Any;2689;Vendor: Sergeant Szechuan;1;0 days 00:00:01;0 days 00:00:25.147058824;855
+557;Weapon;Loose C.H.A.N.G.E.M.A.K.E.R.;26;Tradable;Common;Any;2689;Vendor: Sergeant Szechuan;1;0 days 00:00:01;0 days 00:00:25.147058824;855
+94;Shirts;Improved Triangle Tee (Boys);27;Tradable;Common;Boy;2488;Vendor: Bigga Betta;1;0 days 00:00:01;0 days 00:00:24.617647059;837
+214;Shirts;Battle Tee (Boys);27;Tradable;Common;Boy;2488;Vendor: Bigga Betta;1;0 days 00:00:01;0 days 00:00:24.617647059;837
+227;Shirts;Superior Kitten Hoodie (Girls);27;Tradable;Common;Girl;2488;Vendor: Bigga Betta;1;0 days 00:00:01;0 days 00:00:24.617647059;837
+345;Shirts;Improved Olympia Shirt (Girls);27;Tradable;Common;Girl;2488;Vendor: Bigga Betta;1;0 days 00:00:01;0 days 00:00:24.617647059;837
+95;Shoes;Berserker Sneakers (Boys);30;Tradable;Common;Boy;2498;Vendor: Mandroid M-58;1;0 days 00:00:01;0 days 00:00:24.411764706;830
+192;Shoes;Improved Cyber Skaters (Boys);30;Tradable;Common;Boy;2498;Vendor: Mandroid M-58;1;0 days 00:00:01;0 days 00:00:24.411764706;830
+108;Shoes;Superior Siamese Boots (Girls);30;Tradable;Common;Girl;2498;Vendor: Mandroid M-58;1;0 days 00:00:01;0 days 00:00:24.411764706;830
+331;Shoes;Improved Athena Mid-Boot (Girls);30;Tradable;Common;Girl;2498;Vendor: Mandroid M-58;1;0 days 00:00:01;0 days 00:00:24.411764706;830
+195;Pants;Hip Hugger Pants;28;Tradable;Common;Any;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:24;816
+91;Pants;Improved Battle Cargos (Boys);28;Tradable;Common;Boy;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:24;816
+206;Pants;Superior Pillow Trouser (Boys);28;Tradable;Common;Boy;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:24;816
+105;Pants;Siamese Shorts (Girls);28;Tradable;Common;Girl;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:24;816
+322;Pants;Superior Doublefold Skirt (Girls);28;Tradable;Common;Girl;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:24;816
+121;Weapon;Forklift Blade;25;Tradable;Common;Any;1772;Vendor: Dexbot Q-84;1;0 days 00:00:01;0 days 00:00:23.941176471;814
+149;Weapon;Spiked Shell Sabre;25;Tradable;Common;Any;1772;Vendor: Dexbot Q-84;1;0 days 00:00:01;0 days 00:00:23.941176471;814
+93;Shirts;Triangle Tee (Boys);26;Tradable;Common;Boy;2690;Vendor: Colonel Dumplings;1;0 days 00:00:01;0 days 00:00:23.470588235;798
+212;Shirts;Superior Roller Tee (Boys);26;Tradable;Common;Boy;2690;Vendor: Colonel Dumplings;1;0 days 00:00:01;0 days 00:00:23.470588235;798
+226;Shirts;Improved Kitten Hoodie (Girls);26;Tradable;Common;Girl;2690;Vendor: Colonel Dumplings;1;0 days 00:00:01;0 days 00:00:23.470588235;798
+344;Shirts;Olympia Shirt (Girls);26;Tradable;Common;Girl;2690;Vendor: Colonel Dumplings;1;0 days 00:00:01;0 days 00:00:23.470588235;798
+93;Shoes;Superior Battle Sneakers (Boys);29;Tradable;Common;Boy;2498;Vendor: Mandroid M-58;1;0 days 00:00:01;0 days 00:00:23.264705882;791
+191;Shoes;Cyber Skaters (Boys);29;Tradable;Common;Boy;2498;Vendor: Mandroid M-58;1;0 days 00:00:01;0 days 00:00:23.264705882;791
+107;Shoes;Improved Siamese Boots (Girls);29;Tradable;Common;Girl;2498;Vendor: Mandroid M-58;1;0 days 00:00:01;0 days 00:00:23.264705882;791
+330;Shoes;Athena Mid-Boot (Girls);29;Tradable;Common;Girl;2498;Vendor: Mandroid M-58;1;0 days 00:00:01;0 days 00:00:23.264705882;791
+1157;Chest;Standard Downtown E.G.G.;0;Tradable;Any;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:23.235294118;790
+1146;Chest;Mystery Future E.G.G.;0;Tradable;Any;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:22.647058824;782
+1161;Chest;Mystery Downtown E.G.G.;0;Tradable;Any;Any;3215;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:23.235294118;782
+193;Pants;Leather Pants;27;Tradable;Common;Any;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:22.852941176;777
+90;Pants;Battle Cargos (Boys);27;Tradable;Common;Boy;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:22.852941176;777
+205;Pants;Improved Pillow Trouser (Boys);27;Tradable;Common;Boy;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:22.852941176;777
+103;Pants;Superior Bubble Short s (Girls);27;Tradable;Common;Girl;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:22.852941176;777
+321;Pants;Improved Doublefold Skirt (Girls);27;Tradable;Common;Girl;2489;Vendor: Nicko Sicko;1;0 days 00:00:01;0 days 00:00:22.852941176;777
+368;Weapon;Bullhorn Boomstick Atomizer;24;Tradable;Common;Any;1772;Vendor: Dexbot Q-84;1;0 days 00:00:01;0 days 00:00:22.794117647;775
+386;Weapon;Toy Bazooka GUN;24;Tradable;Common;Any;1772;Vendor: Dexbot Q-84;1;0 days 00:00:01;0 days 00:00:22.794117647;775
+1142;Chest;Special Future E.G.G.;0;Tradable;Any;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:22.647058824;770
+166;Shirts;Improved Bauhaus Shirt (Boys);25;Tradable;Common;Boy;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:22.352941176;760
+211;Shirts;Improved Roller Tee (Boys);25;Tradable;Common;Boy;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:22.352941176;760
+181;Shirts;Improved Mocha Blouse (Girls);25;Tradable;Common;Girl;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:22.352941176;760
+225;Shirts;Kitten Hoodie (Girls);25;Tradable;Common;Girl;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:22.352941176;760
+92;Shoes;Improved Battle Sneakers (Boys);28;Tradable;Common;Boy;2490;Vendor: Coco Jojo;1;0 days 00:00:01;0 days 00:00:22.147058824;753
+189;Shoes;Superior Tech Skaters (Boys);28;Tradable;Common;Boy;2490;Vendor: Coco Jojo;1;0 days 00:00:01;0 days 00:00:22.147058824;753
+106;Shoes;Siamese Boots (Girls);28;Tradable;Common;Girl;2490;Vendor: Coco Jojo;1;0 days 00:00:01;0 days 00:00:22.147058824;753
+328;Shoes;Superior Olympia Mid-Boot (Girls);28;Tradable;Common;Girl;2490;Vendor: Coco Jojo;1;0 days 00:00:01;0 days 00:00:22.147058824;753
+356;Pants;Atlantic Jeans;26;Tradable;Common;Any;2691;Vendor: Bruce Sketta;1;0 days 00:00:01;0 days 00:00:21.794117647;741
+88;Pants;Superior Convertible Cargos (Boys);26;Tradable;Common;Boy;2691;Vendor: Bruce Sketta;1;0 days 00:00:01;0 days 00:00:21.794117647;741
+204;Pants;Pillow Trouser (Boys);26;Tradable;Common;Boy;2691;Vendor: Bruce Sketta;1;0 days 00:00:01;0 days 00:00:21.794117647;741
+102;Pants;Improved Bubble Shorts (Girls);26;Tradable;Common;Girl;2691;Vendor: Bruce Sketta;1;0 days 00:00:01;0 days 00:00:21.794117647;741
+320;Pants;Doublefold Skirt (Girls);26;Tradable;Common;Girl;2691;Vendor: Bruce Sketta;1;0 days 00:00:01;0 days 00:00:21.794117647;741
+472;Weapon;Shower Spreader;23;Tradable;Common;Any;1772;Vendor: Dexbot Q-84;1;0 days 00:00:01;0 days 00:00:21.705882353;738
+512;Weapon;Harmonic Kaya Gun;23;Tradable;Common;Any;1772;Vendor: Dexbot Q-84;1;0 days 00:00:01;0 days 00:00:21.705882353;738
+165;Shirts;Bauhaus Shirt (Boys);24;Tradable;Common;Boy;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:21.294117647;724
+210;Shirts;Roller Tee (Boys);24;Tradable;Common;Boy;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:21.294117647;724
+180;Shirts;Mocha Blouse (Girls);24;Tradable;Common;Girl;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:21.294117647;724
+341;Shirts;Improved Techaneer Shirt (Girls);24;Tradable;Common;Girl;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:21.294117647;724
+91;Shoes;Battle Sneakers (Boys);27;Tradable;Common;Boy;2490;Vendor: Coco Jojo;1;0 days 00:00:01;0 days 00:00:21.117647059;718
+188;Shoes;Improved Tech Skaters (Boys);27;Tradable;Common;Boy;2490;Vendor: Coco Jojo;1;0 days 00:00:01;0 days 00:00:21.117647059;718
+104;Shoes;Superior Kitten Boots (Girls);27;Tradable;Common;Girl;2490;Vendor: Coco Jojo;1;0 days 00:00:01;0 days 00:00:21.117647059;718
+327;Shoes;Improved Olympia Mid-Boot (Girls);27;Tradable;Common;Girl;2490;Vendor: Coco Jojo;1;0 days 00:00:01;0 days 00:00:21.117647059;718
+191;Pants;Rocker Pants;25;Tradable;Common;Any;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:20.735294118;705
+87;Pants;Improved Convertible Cargos (Boys);25;Tradable;Common;Boy;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:20.735294118;705
+151;Pants;Improved Bauhaus Pants (Boys);25;Tradable;Common;Boy;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:20.735294118;705
+101;Pants;Bubble Shorts (Girls);25;Tradable;Common;Girl;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:20.735294118;705
+174;Pants;Improved Mocha Skirt (Girls);25;Tradable;Common;Girl;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:20.735294118;705
+131;Weapon;Sawtooth Sabre;22;Tradable;Common;Any;2606;Vendor: Hardee Harhar;1;0 days 00:00:01;0 days 00:00:20.676470588;703
+556;Weapon;C.H.A.N.G.E.M.A.K.E.R.;22;Tradable;Common;Any;2606;Vendor: Hardee Harhar;1;0 days 00:00:01;0 days 00:00:20.676470588;703
+21;Shirts;Superior Numbuh Five Varsity Jacket (Boys);23;Tradable;Common;Boy;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:20.264705882;689
+164;Shirts;Improved Gorey Shirt (Boys);23;Tradable;Common;Boy;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:20.264705882;689
+179;Shirts;Improved Tiffany Blouse (Girls);23;Tradable;Common;Girl;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:20.264705882;689
+340;Shirts;Techaneer Shirt (Girls);23;Tradable;Common;Girl;1773;Vendor: Mandroid M-95;1;0 days 00:00:01;0 days 00:00:20.264705882;689
+89;Shoes;Superior Sneakers (Boys);26;Tradable;Common;Boy;2692;Vendor: Al Fredo;1;0 days 00:00:01;0 days 00:00:20.117647059;684
+187;Shoes;Tech Skaters (Boys);26;Tradable;Common;Boy;2692;Vendor: Al Fredo;1;0 days 00:00:01;0 days 00:00:20.117647059;684
+103;Shoes;Improved Kitten Boots (Girls);26;Tradable;Common;Girl;2692;Vendor: Al Fredo;1;0 days 00:00:01;0 days 00:00:20.117647059;684
+326;Shoes;Olympia Mid-Boot (Girls);26;Tradable;Common;Girl;2692;Vendor: Al Fredo;1;0 days 00:00:01;0 days 00:00:20.117647059;684
+42;Pants;Bauhaus Pants (Boys);24;Tradable;Common;Boy;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:19.764705882;672
+86;Pants;Convertible Cargos (Boys);24;Tradable;Common;Boy;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:19.764705882;672
+173;Pants;Mocha Skirt (Girls);24;Tradable;Common;Girl;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:19.764705882;672
+317;Pants;Improved Pleater Skirt (Girls);24;Tradable;Common;Girl;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:19.764705882;672
+588;Weapon;Kaya Gun;21;Tradable;Common;Any;2606;Vendor: Hardee Harhar;1;0 days 00:00:01;0 days 00:00:19.705882353;670
+595;Weapon;T.W.O.C.A.N.;21;Tradable;Common;Any;2606;Vendor: Hardee Harhar;1;0 days 00:00:01;0 days 00:00:19.705882353;670
+20;Shirts;Improved Numbuh Five Varsity Jacket (Boys);22;Tradable;Common;Boy;2607;Vendor: Whatsa Matta;1;0 days 00:00:01;0 days 00:00:19.294117647;656
+163;Shirts;Gorey Shirt (Boys);22;Tradable;Common;Boy;2607;Vendor: Whatsa Matta;1;0 days 00:00:01;0 days 00:00:19.294117647;656
+178;Shirts;Tiffany Blouse (Girls);22;Tradable;Common;Girl;2607;Vendor: Whatsa Matta;1;0 days 00:00:01;0 days 00:00:19.294117647;656
+368;Shirts;Improved Holiday Shirt (Girls);22;Tradable;Common;Girl;2607;Vendor: Whatsa Matta;1;0 days 00:00:01;0 days 00:00:19.294117647;656
+165;Shoes;Improved Bauhaus Boots (Boys);25;Tradable;Common;Boy;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:19.147058824;651
+88;Shoes;Improved Sneakers (Boys);25;Tradable;Common;Boy;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:19.147058824;651
+102;Shoes;Kitten Boots (Girls);25;Tradable;Common;Girl;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:19.147058824;651
+16;Pants;Superior KND Denims (Boys);23;Tradable;Common;Boy;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:18.823529412;640
+148;Pants;Improved Gorey Pants (Boys);23;Tradable;Common;Boy;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:18.823529412;640
+172;Pants;Improved Tiffany Skirt (Girls);23;Tradable;Common;Girl;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:18.823529412;640
+316;Pants;Pleater Skirt (Girls);23;Tradable;Common;Girl;1774;Vendor: Dexbot Q-38;1;0 days 00:00:01;0 days 00:00:18.823529412;640
+242;Weapon;Whip Whizzer;20;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:18.764705882;638
+18;Weapon;Whizbang;20;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:18.764705882;638
+19;Shirts;Numbuh Five Varsity Jacket (Boys);21;Tradable;Common;Boy;2607;Vendor: Whatsa Matta;1;0 days 00:00:01;0 days 00:00:18.382352941;625
+162;Shirts;Improved Kindergoth Shirt (Boys);21;Tradable;Common;Boy;2607;Vendor: Whatsa Matta;1;0 days 00:00:01;0 days 00:00:18.382352941;625
+177;Shirts;Improved Corrugated Blouse (Girls);21;Tradable;Common;Girl;2607;Vendor: Whatsa Matta;1;0 days 00:00:01;0 days 00:00:18.382352941;625
+367;Shirts;Holiday Shirt (Girls);21;Tradable;Common;Girl;2607;Vendor: Whatsa Matta;1;0 days 00:00:01;0 days 00:00:18.382352941;625
+164;Shoes;Bauhaus Boots (Boys);24;Tradable;Common;Boy;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:18.235294118;620
+87;Shoes;Sneakers (Boys);24;Tradable;Common;Boy;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:18.235294118;620
+323;Shoes;Improved Techaneer Mid-Boot (Girls);24;Tradable;Common;Girl;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:18.235294118;620
+1149;Chest;Standard Suburbs E.G.G.;0;Tradable;Any;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:18.235294118;620
+1153;Chest;Mystery Suburbs E.G.G.;0;Tradable;Any;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:18.235294118;612
+597;Shirts;DexLabs Racing Team Jacket;20;Tradable;Uncommon;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:00:17.970588235;611
+15;Pants;Improved KND Denims (Boys);22;Tradable;Common;Boy;2608;Vendor: Lefty Loosey;1;0 days 00:00:01;0 days 00:00:17.911764706;609
+147;Pants;Gorey Pants (Boys);22;Tradable;Common;Boy;2608;Vendor: Lefty Loosey;1;0 days 00:00:01;0 days 00:00:17.911764706;609
+171;Pants;Tiffany Skirt (Girls);22;Tradable;Common;Girl;2608;Vendor: Lefty Loosey;1;0 days 00:00:01;0 days 00:00:17.911764706;609
+344;Pants;Improved Holiday Capris (Girls);22;Tradable;Common;Girl;2608;Vendor: Lefty Loosey;1;0 days 00:00:01;0 days 00:00:17.911764706;609
+51;Weapon;MVP Endsville Slugger;19;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:17.882352941;608
+475;Weapon;Steam Shower Spreader;19;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:17.882352941;608
+25;Shirts;Superior Chowder Varsity Jacket (Boys);20;Tradable;Common;Boy;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:17.529411765;596
+161;Shirts;Kindergoth Shirt (Boys);20;Tradable;Common;Boy;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:17.529411765;596
+176;Shirts;Corrugated Blouse (Girls);20;Tradable;Common;Girl;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:17.529411765;596
+366;Shirts;Improved Weekend Shirt (Girls);20;Tradable;Common;Girl;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:17.529411765;596
+163;Shoes;Improved Gorey Boots (Boys);23;Tradable;Common;Boy;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:17.382352941;591
+6;Shoes;Superior Numbuh Five Kicks (Boys);23;Tradable;Common;Boy;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:17.382352941;591
+322;Shoes;Techaneer Mid-Boot (Girls);23;Tradable;Common;Girl;1775;Vendor: Dexbot Q-58;1;0 days 00:00:01;0 days 00:00:17.382352941;591
+14;Pants;KND Denims (Boys);21;Tradable;Common;Boy;2608;Vendor: Lefty Loosey;1;0 days 00:00:01;0 days 00:00:17.088235294;581
+40;Pants;Improved Kindergoth Pants (Boys);21;Tradable;Common;Boy;2608;Vendor: Lefty Loosey;1;0 days 00:00:01;0 days 00:00:17.088235294;581
+170;Pants;Improved Corrugated Skirt (Girls);21;Tradable;Common;Girl;2608;Vendor: Lefty Loosey;1;0 days 00:00:01;0 days 00:00:17.088235294;581
+343;Pants;Holiday Capris (Girls);21;Tradable;Common;Girl;2608;Vendor: Lefty Loosey;1;0 days 00:00:01;0 days 00:00:17.088235294;581
+164;Weapon;Bushido Practice Sword;18;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:17.029411765;579
+563;Weapon;Cyan Airbrush Blaster;18;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:17.029411765;579
+24;Shirts;Improved Chowder Varsity Jacket (Boys);19;Tradable;Common;Boy;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:16.676470588;567
+159;Shirts;Superior Cybergoth Shirt (Boys);19;Tradable;Common;Boy;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:16.676470588;567
+174;Shirts;Superior Ruffled Blouse (Girls);19;Tradable;Common;Girl;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:16.676470588;567
+365;Shirts;Weekend Shirt (Girls);19;Tradable;Common;Girl;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:16.676470588;567
+505;Pants;DexLabs Racing Team Pants;20;Tradable;Uncommon;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:00:16.676470588;567
+162;Shoes;Gorey Boots (Boys);22;Tradable;Common;Boy;2609;Vendor: Picka Pocka;1;0 days 00:00:01;0 days 00:00:16.558823529;563
+5;Shoes;Improved Numbuh Five Kicks (Boys);22;Tradable;Common;Boy;2609;Vendor: Picka Pocka;1;0 days 00:00:01;0 days 00:00:16.558823529;563
+350;Shoes;Improved Holiday Lowtops (Girls);22;Tradable;Common;Girl;2609;Vendor: Picka Pocka;1;0 days 00:00:01;0 days 00:00:16.558823529;563
+20;Pants;Superior Marzipan Denims (Boys);20;Tradable;Common;Boy;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:16.264705882;553
+159;Pants;Kindergoth Pants (Boys);20;Tradable;Common;Boy;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:16.264705882;553
+169;Pants;Corrugated Skirt (Girls);20;Tradable;Common;Girl;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:16.264705882;553
+342;Pants;Improved Weekend Capris (Girls);20;Tradable;Common;Girl;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:16.264705882;553
+97;Weapon;Banded Lockslammer;17;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:16.235294118;552
+385;Weapon;Toy Bazooka;17;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:16.235294118;552
+1141;Chest;Standard Future E.G.G.;0;Tradable;Any;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:16.176470588;550
+1145;Chest;Mystery Future E.G.G.;0;Tradable;Any;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:00:16.176470588;544
+23;Shirts;Chowder Varsity Jacket (Boys);18;Tradable;Common;Boy;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:15.882352941;540
+158;Shirts;Improved Cybergoth Shirt (Boys);18;Tradable;Common;Boy;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:15.882352941;540
+173;Shirts;Improved Ruffled Blouse (Girls);18;Tradable;Common;Girl;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:15.882352941;540
+364;Shirts;Improved Countryside Shirt (Girls);18;Tradable;Common;Girl;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:15.882352941;540
+161;Shoes;Improved Kindergoth Boots (Boys);21;Tradable;Common;Boy;2609;Vendor: Picka Pocka;1;0 days 00:00:01;0 days 00:00:15.764705882;536
+4;Shoes;Numbuh Five Kicks (Boys);21;Tradable;Common;Boy;2609;Vendor: Picka Pocka;1;0 days 00:00:01;0 days 00:00:15.764705882;536
+349;Shoes;Holiday Lowtops (Girls);21;Tradable;Common;Girl;2609;Vendor: Picka Pocka;1;0 days 00:00:01;0 days 00:00:15.764705882;536
+19;Pants;Improved Marzipan Denims (Boys);19;Tradable;Common;Boy;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:15.500000;527
+157;Pants;Superior Cybergoth Pants (Boys);19;Tradable;Common;Boy;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:15.500000;527
+167;Pants;Superior Ruffled Skirt (Girls);19;Tradable;Common;Girl;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:15.500000;527
+341;Pants;Weekend Capris (Girls);19;Tradable;Common;Girl;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:15.500000;527
+241;Weapon;Whip Zipper;16;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:15.441176471;525
+367;Weapon;Bullhorn Boomstick Pulverizer;16;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:15.441176471;525
+512;Shoes;DexLabs Racing Team Shoes;20;Tradable;Uncommon;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:00:15.382352941;523
+157;Shirts;Cybergoth Shirt (Boys);17;Tradable;Common;Boy;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:15.147058824;515
+338;Shirts;Improved Safety Tee (Boys);17;Tradable;Common;Boy;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:15.147058824;515
+172;Shirts;Ruffled Blouse (Girls);17;Tradable;Common;Girl;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:15.147058824;515
+363;Shirts;Countryside Shirt (Girls);17;Tradable;Common;Girl;1769;Vendor: Tiffany Taffy;1;0 days 00:00:01;0 days 00:00:15.147058824;515
+160;Shoes;Kindergoth Boots (Boys);20;Tradable;Common;Boy;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:15;510
+10;Shoes;Superior Gourmet Kicks (Boys);20;Tradable;Common;Boy;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:15;510
+348;Shoes;Improved Weekend Lowtops (Girls);20;Tradable;Common;Girl;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:15;510
+18;Pants;Marzipan Denims (Boys);18;Tradable;Common;Boy;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:14.764705882;502
+156;Pants;Improved Cybergoth Pants (Boys);18;Tradable;Common;Boy;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:14.764705882;502
+166;Pants;Improved Ruffled Skirt (Girls);18;Tradable;Common;Girl;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:14.764705882;502
+340;Pants;Improved Countryside Capris (Girls);18;Tradable;Common;Girl;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:14.764705882;502
+50;Weapon;Super Endsville Slugger;15;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:14.735294118;501
+474;Weapon;Hot Shower Spreader;15;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:14.735294118;501
+155;Shirts;Superior Goth Shirt (Boys);16;Tradable;Common;Boy;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:14.411764706;490
+337;Shirts;Safety Tee (Boys);16;Tradable;Common;Boy;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:14.411764706;490
+170;Shirts;Superior Goth Blouse (Girls);16;Tradable;Common;Girl;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:14.411764706;490
+361;Shirts;Superior Downtown Shirt (Girls);16;Tradable;Common;Girl;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:14.411764706;490
+158;Shoes;Superior Cybergoth Boots (Boys);19;Tradable;Common;Boy;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:14.294117647;486
+9;Shoes;Improved Gourmet Kicks (Boys);19;Tradable;Common;Boy;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:14.294117647;486
+347;Shoes;Weekend Lowtops (Girls);19;Tradable;Common;Girl;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:14.294117647;486
+595;Shirts;Generator Rex Racing Team Jacket;15;Tradable;Uncommon;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:00:14.088235294;479
+609;Shirts;Adventure Time Racing Team Jacket;15;Tradable;Uncommon;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:00:14.088235294;479
+154;Pants;Cybergoth Pants (Boys);17;Tradable;Common;Boy;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:14.058823529;478
+314;Pants;Improved Slim-Fit Cords (Boys);17;Tradable;Common;Boy;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:14.058823529;478
+165;Pants;Ruffled Skirt (Girls);17;Tradable;Common;Girl;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:14.058823529;478
+339;Pants;Countryside Capris (Girls);17;Tradable;Common;Girl;1770;Vendor: Gummi Gus;1;0 days 00:00:01;0 days 00:00:14.058823529;478
+163;Weapon;Apprentice Practice Sword;14;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:14.029411765;477
+562;Weapon;Magenta Airbrush Blaster;14;Tradable;Common;Any;1762;Vendor: Plumber Noah ;1;0 days 00:00:01;0 days 00:00:14.029411765;477
+154;Shirts;Improved Goth Shirt (Boys);15;Tradable;Common;Boy;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:13.735294118;467
+336;Shirts;Improved Parabola Tee (Boys);15;Tradable;Common;Boy;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:13.735294118;467
+169;Shirts;Improved Goth Blouse (Girls);15;Tradable;Common;Girl;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:13.735294118;467
+360;Shirts;Improved Downtown Shirt (Girls);15;Tradable;Common;Girl;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:13.735294118;467
+157;Shoes;Improved Cybergoth Boots (Boys);18;Tradable;Common;Boy;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:13.617647059;463
+8;Shoes;Gourmet Kicks (Boys);18;Tradable;Common;Boy;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:13.617647059;463
+346;Shoes;Improved Countryside Lowtops (Girls);18;Tradable;Common;Girl;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:13.617647059;463
+150;Pants;Superior Goth Pants (Boys);16;Tradable;Common;Boy;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:13.382352941;455
+313;Pants;Slim-Fit Cords (Boys);16;Tradable;Common;Boy;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:13.382352941;455
+163;Pants;Superior Goth Skirt (Girls);16;Tradable;Common;Girl;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:13.382352941;455
+337;Pants;Superior Downtown Capris (Girls);16;Tradable;Common;Girl;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:13.382352941;455
+17;Weapon;Whizbee;13;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:13.352941176;454
+153;Shirts;Goth Shirt (Boys);14;Tradable;Common;Boy;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:13.088235294;445
+335;Shirts;Parabola Tee (Boys);14;Tradable;Common;Boy;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:13.088235294;445
+168;Shirts;Goth Blouse (Girls);14;Tradable;Common;Girl;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:13.088235294;445
+359;Shirts;Downtown Shirt (Girls);14;Tradable;Common;Girl;1763;Vendor: Sufferin' Sweetface;1;0 days 00:00:01;0 days 00:00:13.088235294;445
+503;Pants;Generator Rex Racing Team Pants;15;Tradable;Uncommon;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:00:13.088235294;445
+517;Pants;Adventure Time Racing Team Pants;15;Tradable;Uncommon;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:00:13.088235294;445
+156;Shoes;Cybergoth Boots (Boys);17;Tradable;Common;Boy;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:12.970588235;441
+320;Shoes;Improved Safety Oxfords (Boys);17;Tradable;Common;Boy;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:12.970588235;441
+345;Shoes;Countryside Lowtops (Girls);17;Tradable;Common;Girl;1771;Vendor: First Mate Kate;1;0 days 00:00:01;0 days 00:00:12.970588235;441
+149;Pants;Improved Goth Pants (Boys);15;Tradable;Common;Boy;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:12.764705882;434
+312;Pants;Improved Lowrise Cords (Boys);15;Tradable;Common;Boy;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:12.764705882;434
+162;Pants;Improved Goth Skirt (Girls);15;Tradable;Common;Girl;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:12.764705882;434
+336;Pants;Improved Downtown Capris (Girls);15;Tradable;Common;Girl;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:12.764705882;434
+240;Weapon;Zip Zoomer;12;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:12.735294118;433
+150;Shirts;Improved Rambler Hoodie (Boys);13;Tradable;Common;Boy;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:12.470588235;424
+334;Shirts;Improved Bridged Tee (Boys);13;Tradable;Common;Boy;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:12.470588235;424
+121;Shirts;Improved Cutie Pie Halter (Girls);13;Tradable;Common;Girl;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:12.470588235;424
+357;Shirts;Superior Sweetheart Shirt (Girls);13;Tradable;Common;Girl;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:12.470588235;424
+154;Shoes;Superior Goth Boots (Boys);16;Tradable;Common;Boy;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:12.352941176;420
+319;Shoes;Safety Oxfords (Boys);16;Tradable;Common;Boy;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:12.352941176;420
+343;Shoes;Superior Downtown Lowtops (Girls);16;Tradable;Common;Girl;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:12.352941176;420
+146;Pants;Goth Pants (Boys);14;Tradable;Common;Boy;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:12.147058824;413
+311;Pants;Lowrise Cords (Boys);14;Tradable;Common;Boy;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:12.147058824;413
+161;Pants;Goth Skirt (Girls);14;Tradable;Common;Girl;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:12.147058824;413
+335;Pants;Downtown Capris (Girls);14;Tradable;Common;Girl;1764;Vendor: Mandroid M-16;1;0 days 00:00:01;0 days 00:00:12.147058824;413
+473;Weapon;Cold Shower Spreader;11;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:12.117647059;412
+510;Shoes;Generator Rex Racing Team Shoes;15;Tradable;Uncommon;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:00:12.058823529;410
+524;Shoes;Adventure Time Racing Team Shoes;15;Tradable;Uncommon;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:00:12.058823529;410
+240;Hat;Adventure Time Racing Team Helmet;15;Tradable;Uncommon;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:00:12.058823529;410
+149;Shirts;Rambler Hoodie (Boys);12;Tradable;Common;Boy;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:11.882352941;404
+333;Shirts;Bridged Tee (Boys);12;Tradable;Common;Boy;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:11.882352941;404
+120;Shirts;Cutie Pie Halter (Girls);12;Tradable;Common;Girl;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:11.882352941;404
+356;Shirts;Improved Sweetheart Shirt (Girls);12;Tradable;Common;Girl;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:11.882352941;404
+119;General;Gumball (Adaptium);0;Tradable;Any;Any;2572;Vendor: Numbuh 750;1;0 days 00:00:01;0 days 00:00:11.764705882;400
+120;General;Gumball (Blastons);0;Tradable;Any;Any;2572;Vendor: Numbuh 750;1;0 days 00:00:01;0 days 00:00:11.764705882;400
+121;General;Gumball (Cosmix);0;Tradable;Any;Any;2572;Vendor: Numbuh 750;1;0 days 00:00:01;0 days 00:00:11.764705882;400
+153;Shoes;Improved Goth Boots (Boys);15;Tradable;Common;Boy;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:11.764705882;400
+318;Shoes;Improved Parabola Oxfords (Boys);15;Tradable;Common;Boy;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:11.764705882;400
+342;Shoes;Improved Downtown Lowtops (Girls);15;Tradable;Common;Girl;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:11.764705882;400
+143;Pants;Improved Rambler Pants (Boys);13;Tradable;Common;Boy;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:11.588235294;394
+310;Pants;Improved Trimline Cords (Boys);13;Tradable;Common;Boy;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:11.588235294;394
+232;Pants;Improved Cutie Pie Shorts (Girls);13;Tradable;Common;Girl;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:11.588235294;394
+333;Pants;Superior Tech Capris (Girls);13;Tradable;Common;Girl;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:11.588235294;394
+49;Weapon;Composite Endsville Slugger;10;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:11.558823529;393
+148;Shirts;Improved Nomadic Hoodie (Boys);11;Tradable;Common;Boy;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:11.323529412;385
+331;Shirts;Superior Bulletproof Tee (Boys);11;Tradable;Common;Boy;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:11.323529412;385
+119;Shirts;Improved Puppy Love Halter (Girls);11;Tradable;Common;Girl;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:11.323529412;385
+355;Shirts;Sweetheart Shirt (Girls);11;Tradable;Common;Girl;2581;Vendor: Plumber Jerry;1;0 days 00:00:01;0 days 00:00:11.323529412;385
+152;Shoes;Goth Boots (Boys);14;Tradable;Common;Boy;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:11.205882353;381
+317;Shoes;Parabola Oxfords (Boys);14;Tradable;Common;Boy;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:11.205882353;381
+341;Shoes;Downtown Lowtops (Girls);14;Tradable;Common;Girl;1765;Vendor: Numbuh 511;1;0 days 00:00:01;0 days 00:00:11.205882353;381
+594;Shirts;Ben 10 Racing Team Jacket;10;Tradable;Uncommon;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:00:11.058823529;376
+608;Shirts;Sym-Bionic Titan Racing Team Jacket;10;Tradable;Uncommon;Any;3562;Vendor: Sym-Bionic Racer;1;0 days 00:00:01;0 days 00:00:11.058823529;376
+142;Pants;Rambler Pants (Boys);12;Tradable;Common;Boy;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:11.029411765;375
+309;Pants;Trimline Cords (Boys);12;Tradable;Common;Boy;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:11.029411765;375
+231;Pants;Cutie Pie Shorts (Girls);12;Tradable;Common;Girl;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:11.029411765;375
+332;Pants;Improved Tech Capris (Girls);12;Tradable;Common;Girl;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:11.029411765;375
+561;Weapon;Green Airbrush Blaster;9;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:11;374
+147;Shirts;Nomadic Hoodie (Boys);10;Tradable;Common;Boy;2576;Vendor: Mandroid M-50;1;0 days 00:00:01;0 days 00:00:10.794117647;367
+330;Shirts;Improved Bulletproof Tee (Boys);10;Tradable;Common;Boy;2576;Vendor: Mandroid M-50;1;0 days 00:00:01;0 days 00:00:10.794117647;367
+118;Shirts;Puppy Love Halter (Girls);10;Tradable;Common;Girl;2576;Vendor: Mandroid M-50;1;0 days 00:00:01;0 days 00:00:10.794117647;367
+298;Shirts;Improved Honeycomb Tank (Girls);10;Tradable;Common;Girl;2576;Vendor: Mandroid M-50;1;0 days 00:00:01;0 days 00:00:10.794117647;367
+144;Shoes;Improved Rambler Lifters (Boys);13;Tradable;Common;Boy;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:10.676470588;363
+316;Shoes;Improved Bridged Oxfords (Boys);13;Tradable;Common;Boy;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:10.676470588;363
+215;Shoes;Improved Cutie Pie Sneakers (Girls);13;Tradable;Common;Girl;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:10.676470588;363
+339;Shoes;Superior Sweetheart Lowtops (Girls);13;Tradable;Common;Girl;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:10.676470588;363
+162;Weapon;Intern Practice Sword;8;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:10.500000;357
+141;Pants;Improved Nomadic Pants (Boys);11;Tradable;Common;Boy;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:10.500000;357
+307;Pants;Superior Skinny Cords (Boys);11;Tradable;Common;Boy;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:10.500000;357
+230;Pants;Improved Puppy Love Shorts (Girls);11;Tradable;Common;Girl;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:10.500000;357
+331;Pants;Tech Capris (Girls);11;Tradable;Common;Girl;2583;Vendor: Plumber Steve;1;0 days 00:00:01;0 days 00:00:10.500000;357
+146;Shirts;Improved Adventurer Hoodie (Boys);9;Tradable;Common;Boy;654;Vendor: Ranger Jenny ;1;0 days 00:00:01;0 days 00:00:10.264705882;349
+329;Shirts;Bulletproof Tee (Boys);9;Tradable;Common;Boy;654;Vendor: Ranger Jenny ;1;0 days 00:00:01;0 days 00:00:10.264705882;349
+117;Shirts;Improved Striped Halter (Girls);9;Tradable;Common;Girl;654;Vendor: Ranger Jenny ;1;0 days 00:00:01;0 days 00:00:10.264705882;349
+297;Shirts;Honeycomb Tank (Girls);9;Tradable;Common;Girl;654;Vendor: Ranger Jenny ;1;0 days 00:00:01;0 days 00:00:10.264705882;349
+502;Pants;Ben 10 Racing Team Pants;10;Tradable;Uncommon;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:00:10.235294118;348
+516;Pants;Sym-Bionic Titan Racing Team Pants;10;Tradable;Uncommon;Any;3562;Vendor: Sym-Bionic Racer;1;0 days 00:00:01;0 days 00:00:10.235294118;348
+143;Shoes;Rambler Lifters (Boys);12;Tradable;Common;Boy;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:10.176470588;346
+315;Shoes;Bridged Oxfords (Boys);12;Tradable;Common;Boy;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:10.176470588;346
+214;Shoes;Cutie Pie Sneakers (Girls);12;Tradable;Common;Girl;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:10.176470588;346
+338;Shoes;Improved Sweetheart Lowtops (Girls);12;Tradable;Common;Girl;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:10.176470588;346
+198;Weapon;Crystal Pistol;7;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:10;340
+140;Pants;Nomadic Pants (Boys);10;Tradable;Common;Boy;2578;Vendor: Dexbot Q-63;1;0 days 00:00:01;0 days 00:00:10;340
+306;Pants;Improved Skinny Cords (Boys);10;Tradable;Common;Boy;2578;Vendor: Dexbot Q-63;1;0 days 00:00:01;0 days 00:00:10;340
+229;Pants;Puppy Love Shorts (Girls);10;Tradable;Common;Girl;2578;Vendor: Dexbot Q-63;1;0 days 00:00:01;0 days 00:00:10;340
+279;Pants;Improved Varsity Skirt (Girls);10;Tradable;Common;Girl;2578;Vendor: Dexbot Q-63;1;0 days 00:00:01;0 days 00:00:10;340
+145;Shirts;Adventurer Hoodie (Boys);8;Tradable;Common;Boy;654;Vendor: Ranger Jenny ;1;0 days 00:00:01;0 days 00:00:09.794117647;333
+327;Shirts;Superior Vested Tee (Boys);8;Tradable;Common;Boy;654;Vendor: Ranger Jenny ;1;0 days 00:00:01;0 days 00:00:09.794117647;333
+116;Shirts;Striped Halter (Girls);8;Tradable;Common;Girl;654;Vendor: Ranger Jenny ;1;0 days 00:00:01;0 days 00:00:09.794117647;333
+296;Shirts;Improved Babycake Tank (Girls);8;Tradable;Common;Girl;654;Vendor: Ranger Jenny ;1;0 days 00:00:01;0 days 00:00:09.794117647;333
+142;Shoes;Improved Nomadic Lifters (Boys);11;Tradable;Common;Boy;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:09.705882353;330
+313;Shoes;Superior Bulletproof Oxfords (Boys);11;Tradable;Common;Boy;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:09.705882353;330
+213;Shoes;Improved Puppy Love Sneakers (Girls);11;Tradable;Common;Girl;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:09.705882353;330
+337;Shoes;Sweetheart Lowtops (Girls);11;Tradable;Common;Girl;2584;Vendor: Plumber Tony;1;0 days 00:00:01;0 days 00:00:09.705882353;330
+60;Weapon;Chocolate Stick;6;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:09.529411765;324
+139;Pants;Improved Adventurer Pants (Boys);9;Tradable;Common;Boy;1213;Vendor: Ranger Carrie ;1;0 days 00:00:01;0 days 00:00:09.529411765;324
+305;Pants;Skinny Cords (Boys);9;Tradable;Common;Boy;1213;Vendor: Ranger Carrie ;1;0 days 00:00:01;0 days 00:00:09.529411765;324
+228;Pants;Improved Rolled Shorts (Girls);9;Tradable;Common;Girl;1213;Vendor: Ranger Carrie ;1;0 days 00:00:01;0 days 00:00:09.529411765;324
+278;Pants;Varsity Skirt (Girls);9;Tradable;Common;Girl;1213;Vendor: Ranger Carrie ;1;0 days 00:00:01;0 days 00:00:09.529411765;324
+509;Shoes;Ben 10 Racing Team Shoes;10;Tradable;Uncommon;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:00:09.470588235;322
+523;Shoes;Sym-Bionic Titan Racing Team Shoes;10;Tradable;Uncommon;Any;3562;Vendor: Sym-Bionic Racer;1;0 days 00:00:01;0 days 00:00:09.470588235;322
+239;Hat;Sym-Bionic Titan Racing Team Helmet;10;Tradable;Uncommon;Any;3562;Vendor: Sym-Bionic Racer;1;0 days 00:00:01;0 days 00:00:09.470588235;322
+143;Shirts;Superior Wanderer Hoodie (Boys);7;Tradable;Common;Boy;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:09.323529412;317
+326;Shirts;Improved Vested Tee (Boys);7;Tradable;Common;Boy;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:09.323529412;317
+114;Shirts;Superior Token Halter (Girls);7;Tradable;Common;Girl;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:09.323529412;317
+295;Shirts;Babycake Tank (Girls);7;Tradable;Common;Girl;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:09.323529412;317
+141;Shoes;Nomadic Lifters (Boys);10;Tradable;Common;Boy;2579;Vendor: Dexbot Q-78;1;0 days 00:00:01;0 days 00:00:09.235294118;314
+312;Shoes;Improved Bulletproof Oxfords (Boys);10;Tradable;Common;Boy;2579;Vendor: Dexbot Q-78;1;0 days 00:00:01;0 days 00:00:09.235294118;314
+212;Shoes;Puppy Love Sneakers (Girls);10;Tradable;Common;Girl;2579;Vendor: Dexbot Q-78;1;0 days 00:00:01;0 days 00:00:09.235294118;314
+285;Shoes;Improved Honeycomb Oxford (Girls);10;Tradable;Common;Girl;2579;Vendor: Dexbot Q-78;1;0 days 00:00:01;0 days 00:00:09.235294118;314
+14;Hat;Chowder Hat;9;Tradable;Rare;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:09.235294118;314
+702;Weapon;Shnitzel Rock-it Launcher;4;Tradable;Ultra Rare;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:09.205882353;313
+138;Pants;Adventurer Pants (Boys);8;Tradable;Common;Boy;1213;Vendor: Ranger Carrie ;1;0 days 00:00:01;0 days 00:00:09.088235294;309
+303;Pants;Superior Slim-Cut Cords (Boys);8;Tradable;Common;Boy;1213;Vendor: Ranger Carrie ;1;0 days 00:00:01;0 days 00:00:09.088235294;309
+227;Pants;Rolled Shorts (Girls);8;Tradable;Common;Girl;1213;Vendor: Ranger Carrie ;1;0 days 00:00:01;0 days 00:00:09.088235294;309
+277;Pants;Improved Junior Varsity Skirt (Girls);8;Tradable;Common;Girl;1213;Vendor: Ranger Carrie ;1;0 days 00:00:01;0 days 00:00:09.088235294;309
+366;Weapon;Bullhorn Boomstick;4;Tradable;Rare;Any;1027;Vendor: Numbuh 226;1;0 days 00:00:01;0 days 00:00:09.058823529;308
+239;Weapon;Zip Zapper;5;Tradable;Common;Any;651;Vendor: Numbuh 255;1;0 days 00:00:01;0 days 00:00:09.058823529;308
+142;Shirts;Improved Wanderer Hoodie (Boys);6;Tradable;Common;Boy;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:08.882352941;302
+325;Shirts;Vested Tee (Boys);6;Tradable;Common;Boy;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:08.882352941;302
+113;Shirts;Improved Token Halter (Girls);6;Tradable;Common;Girl;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:08.882352941;302
+294;Shirts;Improved Sugar Plum Tank (Girls);6;Tradable;Common;Girl;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:08.882352941;302
+140;Shoes;Improved Adventurer Lifters (Boys);9;Tradable;Common;Boy;1214;Vendor: Ranger Rosie ;1;0 days 00:00:01;0 days 00:00:08.794117647;299
+311;Shoes;Bulletproof Oxfords (Boys);9;Tradable;Common;Boy;1214;Vendor: Ranger Rosie ;1;0 days 00:00:01;0 days 00:00:08.794117647;299
+211;Shoes;Improved Striped Sneakers (Girls);9;Tradable;Common;Girl;1214;Vendor: Ranger Rosie ;1;0 days 00:00:01;0 days 00:00:08.794117647;299
+284;Shoes;Honeycomb Oxford (Girls);9;Tradable;Common;Girl;1214;Vendor: Ranger Rosie ;1;0 days 00:00:01;0 days 00:00:08.794117647;299
+596;Shirts;PPG Racing Team Jacket;5;Tradable;Uncommon;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:00:08.676470588;295
+136;Pants;Superior Wanderer Pants (Boys);7;Tradable;Common;Boy;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:08.647058824;294
+302;Pants;Improved Slim-Cut Cords (Boys);7;Tradable;Common;Boy;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:08.647058824;294
+225;Pants;Superior Cuffed Shorts (Girls);7;Tradable;Common;Girl;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:08.647058824;294
+276;Pants;Junior Varsity Skirt (Girls);7;Tradable;Common;Girl;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:08.647058824;294
+98;Back;Turbo Action Backpack;8;Tradable;Uncommon;Any;3672;Vendor: Dukey;1;0 days 00:00:01;0 days 00:00:08.588235294;292
+106;Shirts;Improved Two-Tone Tee (Boys);5;Tradable;Common;Boy;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:08.470588235;288
+141;Shirts;Wanderer Hoodie (Boys);5;Tradable;Common;Boy;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:08.470588235;288
+112;Shirts;Token Halter (Girls);5;Tradable;Common;Girl;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:08.470588235;288
+293;Shirts;Sugar Plum Tank (Girls);5;Tradable;Common;Girl;652;Vendor: Numbuh 333;1;0 days 00:00:01;0 days 00:00:08.470588235;288
+139;Shoes;Adventurer Lifters (Boys);8;Tradable;Common;Boy;1214;Vendor: Ranger Rosie ;1;0 days 00:00:01;0 days 00:00:08.382352941;285
+309;Shoes;Superior Arc Oxfords (Boys);8;Tradable;Common;Boy;1214;Vendor: Ranger Rosie ;1;0 days 00:00:01;0 days 00:00:08.382352941;285
+210;Shoes;Striped Sneakers (Girls);8;Tradable;Common;Girl;1214;Vendor: Ranger Rosie ;1;0 days 00:00:01;0 days 00:00:08.382352941;285
+283;Shoes;Improved Babycake Oxford (Girls);8;Tradable;Common;Girl;1214;Vendor: Ranger Rosie ;1;0 days 00:00:01;0 days 00:00:08.382352941;285
+452;Shirts;Marzipan Man Tunic;4;Tradable;Uncommon;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:08.264705882;281
+48;Weapon;Aluminum Endsville Slugger;3;Tradable;Common;Any;1027;Vendor: Numbuh 226;1;0 days 00:00:01;0 days 00:00:08.235294118;280
+135;Pants;Improved Wanderer Pants (Boys);6;Tradable;Common;Boy;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:08.235294118;280
+301;Pants;Slim-Cut Cords (Boys);6;Tradable;Common;Boy;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:08.235294118;280
+224;Pants;Improved Cuffed Shorts (Girls);6;Tradable;Common;Girl;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:08.235294118;280
+275;Pants;Improved Sophomore Skirt (Girls);6;Tradable;Common;Girl;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:08.235294118;280
+105;Shirts;Two-Tone Tee (Boys);4;Tradable;Common;Boy;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:08.058823529;274
+139;Shirts;Superior Ellipse Hoodie (Boys);4;Tradable;Common;Boy;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:08.058823529;274
+110;Shirts;Superior Button Halter (Girls);4;Tradable;Common;Girl;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:08.058823529;274
+291;Shirts;Superior Sweet Pea Tank (Girls);4;Tradable;Common;Girl;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:08.058823529;274
+504;Pants;PPG Racing Team Pants;5;Tradable;Uncommon;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:00:08.029411765;273
+137;Shoes;Superior Wanderer Kicks (Boys);7;Tradable;Common;Boy;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:08;272
+308;Shoes;Improved Arc Oxfords (Boys);7;Tradable;Common;Boy;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:08;272
+208;Shoes;Superior Token Sneakers (Girls);7;Tradable;Common;Girl;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:08;272
+282;Shoes;Babycake Oxford (Girls);7;Tradable;Common;Girl;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:08;272
+161;Weapon;Practice Sword;2;Tradable;Common;Any;1027;Vendor: Numbuh 226;1;0 days 00:00:01;0 days 00:00:07.852941176;267
+560;Weapon;Airbrush Blaster;2;Tradable;Common;Any;1027;Vendor: Numbuh 226;1;0 days 00:00:01;0 days 00:00:07.852941176;267
+134;Pants;Wanderer Pants (Boys);5;Tradable;Common;Boy;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:07.852941176;267
+217;Pants;Improved Duvet Trouser (Boys);5;Tradable;Common;Boy;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:07.852941176;267
+223;Pants;Cuffed Shorts (Girls);5;Tradable;Common;Girl;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:07.852941176;267
+274;Pants;Sophomore Skirt (Girls);5;Tradable;Common;Girl;1211;Vendor: Numbuh 576;1;0 days 00:00:01;0 days 00:00:07.852941176;267
+104;Shirts;Improved Locket Tee (Boys);3;Tradable;Common;Boy;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:07.676470588;261
+138;Shirts;Improved Ellipse Hoodie (Boys);3;Tradable;Common;Boy;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:07.676470588;261
+109;Shirts;Improved Button Halter (Girls);3;Tradable;Common;Girl;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:07.676470588;261
+290;Shirts;Improved Sweet Pea Tank (Girls);3;Tradable;Common;Girl;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:07.676470588;261
+136;Shoes;Improved Wanderer Kicks (Boys);6;Tradable;Common;Boy;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:07.617647059;259
+307;Shoes;Arc Oxfords (Boys);6;Tradable;Common;Boy;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:07.617647059;259
+207;Shoes;Improved Token Sneakers (Girls);6;Tradable;Common;Girl;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:07.617647059;259
+281;Shoes;Improved Sugar Plum Oxford (Girls);6;Tradable;Common;Girl;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:07.617647059;259
+132;Pants;Superior Ellipse Pants (Boys);4;Tradable;Common;Boy;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:07.470588235;254
+216;Pants;Duvet Trouser (Boys);4;Tradable;Common;Boy;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:07.470588235;254
+221;Pants;Superior Toaster Shorts (Girls);4;Tradable;Common;Girl;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:07.470588235;254
+272;Pants;Superior Freshman Skirt (Girls);4;Tradable;Common;Girl;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:07.470588235;254
+511;Shoes;PPG Racing Team Shoes;5;Tradable;Uncommon;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:00:07.411764706;252
+103;Shirts;Locket Tee (Boys);2;Tradable;Common;Boy;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:07.323529412;249
+137;Shirts;Ellipse Hoodie (Boys);2;Tradable;Common;Boy;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:07.323529412;249
+108;Shirts;Button Halter (Girls);2;Tradable;Common;Girl;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:07.323529412;249
+289;Shirts;Sweet Pea Tank (Girls);2;Tradable;Common;Girl;1028;Vendor: Numbuh 514;1;0 days 00:00:01;0 days 00:00:07.323529412;249
+135;Shoes;Wanderer Lifters (Boys);5;Tradable;Common;Boy;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:07.235294118;246
+200;Shoes;Improved Slick Skaters (Boys);5;Tradable;Common;Boy;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:07.235294118;246
+206;Shoes;Token Sneakers (Girls);5;Tradable;Common;Girl;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:07.235294118;246
+280;Shoes;Sugar Plum Oxford (Girls);5;Tradable;Common;Girl;1212;Vendor: Numbuh 404;1;0 days 00:00:01;0 days 00:00:07.235294118;246
+131;Pants;Improved Ellipse Pants (Boys);3;Tradable;Common;Boy;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:07.117647059;242
+215;Pants;Improved Comforter Trouser (Boys);3;Tradable;Common;Boy;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:07.117647059;242
+220;Pants;Improved Toaster Shorts (Girls);3;Tradable;Common;Girl;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:07.117647059;242
+271;Pants;Improved Freshman Skirt (Girls);3;Tradable;Common;Girl;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:07.117647059;242
+238;Hat;Marzipan Man Cowl;4;Tradable;Uncommon;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:07.058823529;240
+133;Shoes;Superior Ellipse Lifters (Boys);4;Tradable;Common;Boy;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.911764706;235
+199;Shoes;Slick Skaters (Boys);4;Tradable;Common;Boy;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.911764706;235
+204;Shoes;Superior Button Sneakers (Girls);4;Tradable;Common;Girl;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.911764706;235
+278;Shoes;Superior Sweet Pea Oxford (Girls);4;Tradable;Common;Girl;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.911764706;235
+130;Pants;Ellipse Pants (Boys);2;Tradable;Common;Boy;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:06.794117647;231
+214;Pants;Comforter Trouser (Boys);2;Tradable;Common;Boy;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:06.794117647;231
+219;Pants;Toaster Shorts (Girls);2;Tradable;Common;Girl;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:06.794117647;231
+270;Pants;Freshman Skirt (Girls);2;Tradable;Common;Girl;1167;Vendor: Numbuh 705;1;0 days 00:00:01;0 days 00:00:06.794117647;231
+132;Shoes;Improved Ellipse Lifters (Boys);3;Tradable;Common;Boy;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.588235294;224
+198;Shoes;Improved Cool Skaters (Boys);3;Tradable;Common;Boy;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.588235294;224
+203;Shoes;Improved Button Sneakers (Girls);3;Tradable;Common;Girl;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.588235294;224
+277;Shoes;Improved Sweet Pea Oxford (Girls);3;Tradable;Common;Girl;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.588235294;224
+235;Hat;Flibber Flabber Collar;1;Tradable;Ultra Rare;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:06.352941176;216
+188;Hat;Grabble;1;Tradable;Ultra Rare;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:06.352941176;216
+223;Hat;King of the Sky Crown;1;Tradable;Ultra Rare;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:06.352941176;216
+131;Shoes;Ellipse Lifters (Boys);2;Tradable;Common;Boy;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.264705882;213
+197;Shoes;Cool Skaters (Boys);2;Tradable;Common;Boy;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.264705882;213
+202;Shoes;Button Sneakers (Girls);2;Tradable;Common;Girl;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.264705882;213
+276;Shoes;Sweet Pea Oxford (Girls);2;Tradable;Common;Girl;1168;Vendor: Numbuh 111;1;0 days 00:00:01;0 days 00:00:06.264705882;213
+68;Back;Vilgax Minion Backpack;1;Tradable;Rare;Any;3351;Vendor: Apex;1;0 days 00:00:01;0 days 00:00:06.264705882;213
+225;Hat;Ben 10 Racing Team Helmet;10;Tradable;Uncommon;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:00:00;0
+226;Hat;Generator Rex Racing Team Helmet;15;Tradable;Uncommon;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:00:00;0
+227;Hat;PPG Racing Team Helmet;5;Tradable;Uncommon;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:00:00;0
+228;Hat;DexLabs Racing Team Helmet;20;Tradable;Uncommon;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:00:00;0
+147;Hat;Cherufe Helmet;1;Not Tradable;Common;Any;3267;Vendor: Dracula;1;0 days 00:00:01;1 days 08:40:47.058823529;3999998
+431;Shirts;Cherufe Chest Piece;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;1 days 08:40:47.058823529;3999998
+414;Pants;Cherufe Pants;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;1 days 08:40:47.058823529;3999998
+421;Shoes;Cherufe Feet;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;1 days 08:40:47.058823529;3999998
+172;Hat;Big Chill Bubblehead;1;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;1 days 08:40:47.058823529;3999998
+58;Back;Big Chill Wings;1;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;1 days 08:40:47.058823529;3999998
+149;Hat;Del Uglio Wrestling Mask;1;Not Tradable;Common;Any;3267;Vendor: Dracula;1;0 days 00:00:01;1 days 08:40:47.058823529;3999998
+148;Hat;Big Chill Mask;1;Not Tradable;Common;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 05:26:47.843137255;666672
+425;Shirts;Big Chill Shirt;0;Not Tradable;Common;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 05:26:47.843137255;666672
+408;Pants;Big Chill Pants;0;Not Tradable;Common;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 05:26:47.843137255;666672
+415;Shoes;Big Chill Feet;0;Not Tradable;Common;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 05:26:47.843137255;666672
+473;Shirts;Threadbare Ancestral Tunic;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 05:26:47.843137255;666672
+458;Pants;Threadbare Ancestral Leg Wraps;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 05:26:47.843137255;666672
+464;Shoes;Threadbare Ancestral Foot Wraps;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 05:26:47.843137255;666672
+59;Back;Fusion Wraith Wings;1;Not Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+170;Hat;Fusion Wraith Mask;1;Not Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 01:22:57.375565611;169218
+443;Shirts;Frayed Ancestral Tunic;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+426;Pants;Frayed Ancestral Leg Wraps;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+433;Shoes;Frayed Ancestral Foot Wraps;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+442;Shirts;Faded Ancestral Tunic;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+425;Pants;Faded Ancestral Leg Wraps;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+432;Shoes;Faded Ancestral Foot Wraps;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+475;Shirts;Timeworn Ancestral Tunic;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+459;Pants;Timeworn Ancestral Leg Wraps;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+465;Shoes;Timeworn Ancestral Foot Wraps;5;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:59:54.771241830;122230
+54;Back;Spooky Cape;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+55;Back;Superhero Cape;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+56;Back;Moon Pack;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+47;Glass;Incognito Mask;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+48;Glass;Surgical Goggles;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+49;Glass;Scary Mask;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+50;Glass;Bank Robber Mask;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+51;Glass;Spy Goggles;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+52;Glass;Detective Monocle;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+53;Glass;Rock and Roll Shades;1;Not Tradable;Ultra Rare;Any;3213;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:30:35.294117647;62390
+46;Glass;Truffles Glasses;21;Not Tradable;Uncommon;Any;3216;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:21:31.248206600;43894
+74;Hat;Racer D Helmet;5;Not Tradable;Ultra Rare;Any;3214;Vendor: E.G.G.E.R.;1;0 days 00:00:01;0 days 00:20:35.294117647;41990
+123;Hat;Web-Head;1;Not Tradable;Ultra Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:16:20.392156863;33320
+489;Pants;Ultimate Swampfire Pants;20;Not Tradable;Rare;Any;3384;Vendor: Apogee;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+496;Shoes;Ultimate Swampfire Boots;20;Not Tradable;Rare;Any;3384;Vendor: Apogee;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+16;Vehicle;Big Chill Glider;18;Not Tradable;Rare;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+22;Vehicle;Kevin Levin Hovercar;22;Not Tradable;Rare;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+37;Vehicle;Ultimate Big Chill Glider;22;Not Tradable;Rare;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+61;Vehicle;Mechomorph Hovercar;26;Not Tradable;Rare;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+40;Vehicle;Generator Rex Glider;18;Not Tradable;Rare;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+21;Vehicle;Generator Rex Hovercar;18;Not Tradable;Rare;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+56;Vehicle;Dynamo Blue Hovercar;18;Not Tradable;Rare;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+57;Vehicle;Dynamo Green Hovercar;18;Not Tradable;Rare;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+58;Vehicle;Dynamo Red Hovercar;18;Not Tradable;Rare;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+63;Vehicle;Morbucks Golden Hovercar;22;Not Tradable;Uncommon;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+41;Vehicle;Monkey Minion Glider;22;Not Tradable;Uncommon;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+55;Vehicle;Dexlabs Hovercar;18;Not Tradable;Rare;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+60;Vehicle;Mandark Hovercar;18;Not Tradable;Rare;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+25;Vehicle;Mock 5 Hovercar;22;Not Tradable;Rare;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+26;Vehicle;Racer D Hovercar;22;Not Tradable;Rare;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+28;Vehicle;Mercenary Glider;18;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+54;Vehicle;Cardboard Hovercar;18;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+59;Vehicle;Fosters Hovercar;18;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+42;Vehicle;Underworld Glider;22;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+65;Vehicle;Underworld Hovercar;22;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+64;Vehicle;Steampunk Hovercar;22;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+39;Vehicle;Aku Glider;26;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+62;Vehicle;Medieval Hovercar;26;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+27;Vehicle;Megas XLR Hovercar;26;Not Tradable;Ultra Rare;Any;3534;Vendor: Dexbot Q-945;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+66;Vehicle;Ice King Bolt;18;Not Tradable;Rare;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+69;Vehicle;Royal Swan;22;Not Tradable;Ultra Rare;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+70;Vehicle;Marceline's Hovercar;22;Not Tradable;Ultra Rare;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+71;Vehicle;Corus Glider;18;Not Tradable;Rare;Any;3562;Vendor: Sym-Bionic Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+74;Vehicle;Sym-Bionic Hovercar;22;Not Tradable;Ultra Rare;Any;3562;Vendor: Sym-Bionic Racer;1;0 days 00:00:01;0 days 00:04:54.117647059;10000
+44;Back;Spidermonkey Arms;1;Not Tradable;Ultra Rare;Any;3539;Vendor: Mechomorph E.G.G.E.R.;1;0 days 00:00:01;0 days 00:04:54.117647059;9996
+429;Pants;Gwen 10,000 Pants;16;Not Tradable;Rare;Any;3384;Vendor: Apogee;1;0 days 00:00:01;0 days 00:03:55.294117647;8000
+436;Shoes;Gwen 10,000 Shoes;16;Not Tradable;Rare;Any;3384;Vendor: Apogee;1;0 days 00:00:01;0 days 00:03:55.294117647;8000
+415;Pants;Chromastone Pants;12;Not Tradable;Rare;Any;3384;Vendor: Apogee;1;0 days 00:00:01;0 days 00:02:56.470588235;6000
+422;Shoes;Chromastone Boots;12;Not Tradable;Rare;Any;3384;Vendor: Apogee;1;0 days 00:00:01;0 days 00:02:56.470588235;6000
+19;Vehicle;Sunburst Hoverboard;11;Not Tradable;Uncommon;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+15;Vehicle;Scribble Swarm;11;Not Tradable;Uncommon;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+20;Vehicle;Megas XLR Hoverbike;11;Not Tradable;Uncommon;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+24;Vehicle;Grim Hoverboard;14;Not Tradable;Uncommon;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+13;Vehicle;Kimchi Cloud;14;Not Tradable;Uncommon;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+51;Vehicle;Blacklight Jetbike;14;Not Tradable;Ultra Rare;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+45;Vehicle;Absolution Hoverboard;17;Not Tradable;Ultra Rare;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+43;Vehicle;Glumburger Cloud;17;Not Tradable;Ultra Rare;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+53;Vehicle;Skeleton Jetbike;17;Not Tradable;Ultra Rare;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+29;Vehicle;Mecomorph Jetbike;11;Not Tradable;Uncommon;Any;3350;Vendor: Zenith;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+30;Vehicle;Pyronite Comet;11;Not Tradable;Uncommon;Any;3350;Vendor: Zenith;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+31;Vehicle;Mecomorph Hoverboard;14;Not Tradable;Uncommon;Any;3350;Vendor: Zenith;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+32;Vehicle;Charmed Hoverboard;14;Not Tradable;Uncommon;Any;3350;Vendor: Zenith;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+14;Vehicle;Ben 10 Hoverboard;17;Not Tradable;Common;Any;3350;Vendor: Zenith;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+46;Vehicle;Circuit Board;17;Not Tradable;Ultra Rare;Any;3350;Vendor: Zenith;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+49;Vehicle;Azul Flying Motorcycle;11;Not Tradable;Uncommon;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+48;Vehicle;Amarillo Flying Motorcycle;14;Not Tradable;Uncommon;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+36;Vehicle;Rojo Flying Motorcycle;17;Not Tradable;Uncommon;Any;3530;Vendor: Ben 10 Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+33;Vehicle;Generator Rex Hoverboard;11;Not Tradable;Uncommon;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+34;Vehicle;Generator Rex Jetbike;14;Not Tradable;Uncommon;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+35;Vehicle;Six's Hoverboard;17;Not Tradable;Uncommon;Any;3531;Vendor: Generator Rex Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+52;Vehicle;Monkey Minion Jetbike;11;Not Tradable;Uncommon;Any;3532;Vendor: PPG Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+2;Vehicle;Genius Hoverboard;14;Not Tradable;Common;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+6;Vehicle;Mandark Industries Jetbike;17;Not Tradable;Common;Any;3533;Vendor: DexLabs Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+44;Vehicle;Magic Cloud;14;Not Tradable;Ultra Rare;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+68;Vehicle;Candy Kingdom Cruiser;14;Not Tradable;Uncommon;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+67;Vehicle;Lumpy Space Person;17;Not Tradable;Uncommon;Any;3561;Vendor: Adventure Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+73;Vehicle;Octus Hoverboard;11;Not Tradable;Uncommon;Any;3562;Vendor: Sym-Bionic Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+72;Vehicle;Manus Jetbike;14;Not Tradable;Uncommon;Any;3562;Vendor: Sym-Bionic Racer;1;0 days 00:00:01;0 days 00:02:27.058823529;5000
+462;Pants;TOM 3.0 Pants;15;Not Tradable;Rare;Any;3781;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:28.235294118;3000
+468;Shoes;TOM 3.0 Boots;15;Not Tradable;Rare;Any;3781;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:28.235294118;3000
+631;Shirts;Rath Fan Club Shirt;20;Not Tradable;Rare;Any;3766;Vendor: Rath Fan Club Treasurer;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+278;Hat;Rath Mask;20;Not Tradable;Rare;Any;3672;Vendor: Dukey;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+460;Pants;TOM 1.0 Pants;10;Not Tradable;Rare;Any;3781;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+466;Shoes;TOM 1.0 Boots;10;Not Tradable;Rare;Any;3781;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+479;Shirts;TOM 4.0 Chest;10;Not Tradable;Rare;Any;3794;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+463;Pants;TOM 4.0 Pants;10;Not Tradable;Rare;Any;3794;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+469;Shoes;TOM 4.0 Boots;10;Not Tradable;Rare;Any;3794;Vendor: Clyde;1;0 days 00:00:01;0 days 00:01:13.529411765;2500
+486;Pants;Ship Mecomorph Pants;4;Not Tradable;Rare;Any;3351;Vendor: Apex;1;0 days 00:00:01;0 days 00:00:58.823529412;2000
+493;Shoes;Ship Mecomorph Boots;4;Not Tradable;Rare;Any;3351;Vendor: Apex;1;0 days 00:00:01;0 days 00:00:58.823529412;2000
+47;Vehicle;Major Glory Hoverboard;8;Not Tradable;Ultra Rare;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+8;Vehicle;Cloud Nine;8;Not Tradable;Common;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+5;Vehicle;Dexlabs Jetbike;8;Not Tradable;Common;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+3;Vehicle;Saturdays Hoverboard;10;Not Tradable;Common;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+9;Vehicle;Flying Brain;10;Not Tradable;Common;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+50;Vehicle;Aku Jetbike;10;Not Tradable;Ultra Rare;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+76;Vehicle;Johnny Test Jetbike;8;Not Tradable;Uncommon;Any;3672;Vendor: Dukey;1;0 days 00:00:01;0 days 00:00:29.411764706;1000
+70;Glass;Ben Wolf Snout;4;Not Tradable;Rare;Any;3267;Vendor: Dracula;1;0 days 00:00:01;0 days 00:00:14.705882353;500
+503;Shirts;Vilgax Minion Torso;1;Not Tradable;Rare;Any;3351;Vendor: Apex;1;0 days 00:00:01;0 days 00:00:14.705882353;500
+485;Pants;Vilgax Minion Pants;1;Not Tradable;Rare;Any;3351;Vendor: Apex;1;0 days 00:00:01;0 days 00:00:14.705882353;500
+492;Shoes;Vilgax Minion Boots;1;Not Tradable;Rare;Any;3351;Vendor: Apex;1;0 days 00:00:01;0 days 00:00:14.705882353;500
+275;Hat;Infiltrator Helmet;4;Not Tradable;Rare;Any;3739;Vendor: Titanic Treasure Trove;1;0 days 00:00:01;0 days 00:00:14.705882353;500
+521;Shirts;Ricardio Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+534;Shirts;Beemo Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+535;Shirts;Lady Raincorn Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+537;Shirts;Princess Bubblegum Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+540;Shirts;Hotdog Princess Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+541;Shirts;Shark Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+542;Shirts;Science Cat Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+543;Shirts;Gunter Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+544;Shirts;Wall of Flesh Tee;0;Not Tradable;Ultra Rare;Any;3500;Vendor: Stanley;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+565;Shirts;LSP Freak Out Shirt;0;Not Tradable;Ultra Rare;Any;3667;Vendor: Titanic Treasure Chest;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+563;Shirts;Jiggler Shirt;0;Not Tradable;Ultra Rare;Any;3667;Vendor: Titanic Treasure Chest;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+572;Shirts;Marquis of Nuts Shirt;0;Not Tradable;Ultra Rare;Any;3667;Vendor: Titanic Treasure Chest;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+571;Shirts;Marceliene Transformed Shirt;0;Not Tradable;Ultra Rare;Any;3667;Vendor: Titanic Treasure Chest;1;0 days 00:00:01;0 days 00:00:10.441176471;355
+629;Shirts;Johnny Test Tee;8;Not Tradable;Uncommon;Any;3672;Vendor: Dukey;1;0 days 00:00:01;0 days 00:00:10.029411765;341
+630;Shirts;Johnny Test Lab Coat;8;Not Tradable;Uncommon;Any;3672;Vendor: Dukey;1;0 days 00:00:01;0 days 00:00:10.029411765;341
+714;Weapon;Hidden Quad-Barrel Shattergun;4;Not Tradable;Ultra Rare;Any;3739;Vendor: Titanic Treasure Trove;1;0 days 00:00:01;0 days 00:00:09.205882353;313
+715;Weapon;Cloaked Quad-Barrel Shattergun;4;Not Tradable;Ultra Rare;Any;3739;Vendor: Titanic Treasure Trove;1;0 days 00:00:01;0 days 00:00:09.205882353;313
+709;Weapon;Bubblegum Gauntlets;4;Not Tradable;Rare;Any;3667;Vendor: Titanic Treasure Chest;1;0 days 00:00:01;0 days 00:00:09.058823529;308
+710;Weapon;Sword of Billy;4;Not Tradable;Rare;Any;3667;Vendor: Titanic Treasure Chest;1;0 days 00:00:01;0 days 00:00:09.058823529;308
+625;Shirts;Infiltrator Jacket;4;Not Tradable;Rare;Any;3739;Vendor: Titanic Treasure Trove;1;0 days 00:00:01;0 days 00:00:08.470588235;288
+531;Pants;Infiltrator Pants;4;Not Tradable;Rare;Any;3739;Vendor: Titanic Treasure Trove;1;0 days 00:00:01;0 days 00:00:07.852941176;267
+435;Pants;Marzipan Man Tights;4;Not Tradable;Uncommon;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:07.647058824;260
+1;Vehicle;KND Hoverboard;6;Not Tradable;Common;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:07.352941176;250
+7;Vehicle;Zoomulus Cloud;6;Not Tradable;Common;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:07.352941176;250
+4;Vehicle;Tempest Jetbike;6;Not Tradable;Common;Any;3209;Vendor: Numbuh 356;1;0 days 00:00:01;0 days 00:00:07.352941176;250
+538;Shoes;Infiltrator Boots;4;Not Tradable;Rare;Any;3739;Vendor: Titanic Treasure Trove;1;0 days 00:00:01;0 days 00:00:07.235294118;246
+442;Shoes;Marzipan Man Boots;4;Not Tradable;Uncommon;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:07.058823529;240
+192;Hat;Vilgax Minion Helmet;1;Not Tradable;Ultra Rare;Any;3351;Vendor: Apex;1;0 days 00:00:01;0 days 00:00:06.352941176;216
+85;Back;Jiggler;1;Not Tradable;Rare;Any;3667;Vendor: Titanic Treasure Chest;1;0 days 00:00:01;0 days 00:00:06.264705882;213
+421;Shirts;Academy Graduate Hauberk;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+435;Shirts;Academy Graduate Hauberk;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+437;Shirts;Academy Graduate Hauberk;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+486;Shirts;Academy Graduate Hauberk;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+405;Pants;Academy Graduate Legs;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+418;Pants;Academy Graduate Legs;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+420;Pants;Academy Graduate Legs;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+446;Pants;Academy Graduate Legs;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+411;Shoes;Academy Graduate Boots;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+425;Shoes;Academy Graduate Boots;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+427;Shoes;Academy Graduate Boots;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+453;Shoes;Academy Graduate Boots;3;Not Tradable;Uncommon;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+247;Hat;Academy Graduate Helmet;3;Not Tradable;Rare;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+161;Hat;Academy Graduate Helmet;3;Not Tradable;Rare;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+162;Hat;Academy Graduate Helmet;3;Not Tradable;Rare;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+248;Hat;Academy Graduate Helmet;3;Not Tradable;Rare;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+249;Hat;Demon Cat Head;4;Not Tradable;Ultra Rare;Any;3667;Vendor: Titanic Treasure Chest;1;0 days 00:00:01;0 days 00:00:05.882352941;200
+3;General;Weapon Boost;0;Not Tradable;Any;Any;1181;Vendor: Numbuh 904;1;0 days 00:00:01;0 days 00:00:02.941176471;100
+4;General;Nano Potion;0;Not Tradable;Any;Any;1181;Vendor: Numbuh 904;1;0 days 00:00:01;0 days 00:00:02.941176471;100
+502;Shirts;Academy Training Armor;1;Not Tradable;Rare;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:02.941176471;100
+484;Pants;Academy Training Legs;1;Not Tradable;Rare;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:02.941176471;100
+491;Shoes;Academy Training Boots;1;Not Tradable;Rare;Any;3631;Vendor: Academy Uniform Shopkeeper;1;0 days 00:00:01;0 days 00:00:02.941176471;100
+487;Shirts;HOLO Shirt;1;Not Tradable;Common;Any;3277;Vendor: Holosuit Hannah;1;0 days 00:00:01;0 days 00:00:00;0
+470;Pants;HOLO Pants;1;Not Tradable;Common;Any;3277;Vendor: Holosuit Hannah;1;0 days 00:00:01;0 days 00:00:00;0
+476;Shoes;HOLO Shoes;1;Not Tradable;Common;Any;3277;Vendor: Holosuit Hannah;1;0 days 00:00:01;0 days 00:00:00;0
+61;Glass;Love Struck Glasses;4;Not Tradable;Ultra Rare;Any;3560;Vendor: Wisdom Tooth;1;0 days 00:00:01;0 days 00:00:00;0

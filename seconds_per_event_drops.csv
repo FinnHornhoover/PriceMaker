@@ -1,0 +1,59 @@
+id;type;name;level;tradable;rarity;gender;src_id;src_name;srcs_in_loop;src_loop_time;time_till_item;approx_taros
+182;Hat;Snowman Head;1;Tradable;Ultra Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+178;Hat;Reindeer Antlers;1;Tradable;Common;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+60;Glass;Knishmas Beard;1;Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+44;Hat;Evil Clown Head;1;Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+119;General;Gumball (Adaptium);0;Tradable;Any;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+120;General;Gumball (Blastons);0;Tradable;Any;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+121;General;Gumball (Cosmix);0;Tradable;Any;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+12;Hat;Brainstorm Helmet;9;Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+23;Hat;Hector Helmet;13;Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+66;Hat;Fred Fredburger Mask;21;Tradable;Uncommon;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+93;Hat;Jeff Helmet;9;Tradable;Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+179;Hat;Santa Hat;1;Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:03:27.407407407;7038
+14;Hat;Chowder Hat;9;Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:02:35.555555556;5304
+177;Hat;Dreidel Hat;1;Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:02:35.555555556;5304
+181;Hat;Snowglobe Head;1;Tradable;Ultra Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:02:35.555555556;5304
+87;Hat;Scurvy Day Helmet;13;Tradable;Common;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:02:35.555555556;5304
+55;Hat;Chicken Hat;5;Tradable;Common;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:02:35.555555556;5304
+1187;Chest;Knishmas Present;0;Tradable;Any;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:00:23.333333333;782
+1181;Chest;Last Year's Pumpkin CRATE;0;Tradable;Any;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:00:23.333333333;782
+118;Hat;Fiskerton Bubblehead;1;Not Tradable;Ultra Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+59;Glass;Santa Beard;1;Not Tradable;Uncommon;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+497;Shirts;Santa's Helper Tunic;4;Not Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+480;Pants;Santa's Helper Leggings;4;Not Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+487;Shoes;Santa's Helper Booties;4;Not Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+147;Hat;Cherufe Helmet;1;Not Tradable;Common;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+431;Shirts;Cherufe Chest Piece;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+414;Pants;Cherufe Pants;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+421;Shoes;Cherufe Feet;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+172;Hat;Big Chill Bubblehead;1;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+58;Back;Big Chill Wings;1;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+149;Hat;Del Uglio Wrestling Mask;1;Not Tradable;Common;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 05:11:06.666666667;634678
+148;Hat;Big Chill Mask;1;Not Tradable;Common;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+425;Shirts;Big Chill Shirt;0;Not Tradable;Common;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+408;Pants;Big Chill Pants;0;Not Tradable;Common;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+415;Shoes;Big Chill Feet;0;Not Tradable;Common;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+473;Shirts;Threadbare Ancestral Tunic;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+458;Pants;Threadbare Ancestral Leg Wraps;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+464;Shoes;Threadbare Ancestral Foot Wraps;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:51:51.111111111;105774
+46;Glass;Truffles Glasses;21;Not Tradable;Uncommon;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:12:57.777777778;26452
+180;Hat;Knishmas Hat;1;Not Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:12:57.777777778;26452
+65;Back;Knishmas Bag;1;Not Tradable;Uncommon;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:12:57.777777778;26452
+443;Shirts;Frayed Ancestral Tunic;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+426;Pants;Frayed Ancestral Leg Wraps;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+433;Shoes;Frayed Ancestral Foot Wraps;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+442;Shirts;Faded Ancestral Tunic;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+425;Pants;Faded Ancestral Leg Wraps;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+432;Shoes;Faded Ancestral Foot Wraps;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+475;Shirts;Timeworn Ancestral Tunic;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+459;Pants;Timeworn Ancestral Leg Wraps;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+465;Shoes;Timeworn Ancestral Foot Wraps;5;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:09:30.370370370;19380
+496;Shirts;Bigfoot Torso;4;Not Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:03:27.407407407;7038
+479;Pants;Bigfoot Leggings;4;Not Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:03:27.407407407;7038
+486;Shoes;Bigfoot Feet;4;Not Tradable;Rare;Any;1;Event: Knishmas;30;0 days 00:01:10;0 days 00:03:27.407407407;7038
+123;Hat;Web-Head;1;Not Tradable;Ultra Rare;Any;2;Event: Halloween;30;0 days 00:01:10;0 days 00:02:35.555555556;5304
+110;Hat;Zak Bubblehead;1;Not Tradable;Ultra Rare;Any;3;Event: Easter;30;0 days 00:01:10;0 days 00:01:10;2380
+111;Hat;Ben Bubblehead;1;Not Tradable;Ultra Rare;Any;3;Event: Easter;30;0 days 00:01:10;0 days 00:01:10;2380
+116;Hat;Flapjack Bubblehead;1;Not Tradable;Ultra Rare;Any;3;Event: Easter;30;0 days 00:01:10;0 days 00:01:10;2380
+1126;Chest;Spring Chicken CRATE;0;Not Tradable;Any;Any;3;Event: Easter;30;0 days 00:01:10;0 days 00:00:23.333333333;782
